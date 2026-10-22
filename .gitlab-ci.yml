@@ -1,0 +1,75 @@
+# Official framework image. Look for the different tagged releases at:
+# https://hub.docker.com/r/library/node/tags/
+# https://hub.docker.com/_/ruby/tags
+# https://hub.docker.com/r/oven/bun/tags
+
+stages:
+  - test
+  - deploy
+
+test:inventory:
+  image: node:26.7
+  stage: test
+  script:
+    - npm install --global gulp-cli
+    - npm install
+    - npm run build
+  only:
+    - merge_requests
+  except:
+    - master
+
+test:doc:
+  image: ruby:4.0
+  stage: test
+  script:
+    - cd documentation
+    - bundle install
+    - bundle exec jekyll build
+  only:
+    - merge_requests
+  except:
+    - master
+
+test:data:
+  image: oven/bun:1.3
+  stage: test
+  script:
+    - bun install
+    - bun test
+  only:
+    - merge_requests
+  except:
+    - master
+
+pages: # for Gitlab Pages this job must exactly be named `pages`
+  image: node:26.7
+  stage: deploy
+  needs: ["pages:docs"]
+  script:
+    - npm install --global --omit optional gulp-cli netlify-cli
+    - npm install # inventory dependencies
+    - npm run build # build the inventory
+    - cp -rT build/ public/ # copying the inventory
+    - netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod --dir public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+
+pages:docs:
+  image: ruby:4.0
+  stage: deploy
+  script:
+    - mkdir -p public/docs
+    - cd documentation
+    - bundle install # documentation dependencies
+    - bundle exec jekyll build # build the documentation
+    - cp -rT _site/ ../public/docs # copying the documentation
+    - cd ..
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

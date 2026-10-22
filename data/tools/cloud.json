@@ -1,0 +1,188 @@
+{
+  "tools": [
+    {
+      "name": "AWS Extender CLI",
+      "source": "https://github.com/VirtueSecurity/aws-extender-cli",
+      "description": "Test S3 buckets as well as Google Storage buckets and Azure Storage containers for common misconfiguration issues",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "aws-extender-cli",
+      "keywords": "AWS, GCP, Azure"
+    },
+    {
+      "name": "aws_pwn",
+      "source": "https://github.com/dagrz/aws_pwn/",
+      "description": "Collection of AWS penetration testing scripts",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AWS"
+    },
+    {
+      "name": "AzSubEnum",
+      "source": "https://github.com/yuyudhn/AzSubEnum",
+      "description": "Azure service subdomain enumeration",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DNS"
+    },
+    {
+      "name": "AzureADRecon",
+      "source": "https://github.com/adrecon/AzureADRecon",
+      "description": "Gathers information about the Azure Active Directory and generates a report which can provide a holistic picture of the current state of the target environment",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "AzureHound",
+      "source": "https://github.com/SpecterOps/AzureHound",
+      "description": "BloodHound data collector for Microsoft Azure",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "cloud-audit",
+      "source": "https://github.com/gebalamariusz/cloud-audit",
+      "description": "AWS security scanner with 45 CIS benchmark checks across 15 services, copy-paste remediation (CLI + Terraform), and scan diff tracking",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CloudGPT",
+      "source": "https://github.com/ustayready/cloudgpt",
+      "description": "Vulnerability scanner for AWS customer managed policies using ChatGPT",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AWS"
+    },
+    {
+      "name": "CloudMapper",
+      "source": "https://github.com/duo-labs/cloudmapper",
+      "description": "Analyze AWS environments auditing for security issues",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AWS"
+    },
+    {
+      "name": "CloudTracker",
+      "source": "https://github.com/duo-labs/cloudtracker",
+      "description": "Find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AWS"
+    },
+    {
+      "name": "gato",
+      "source": "https://github.com/praetorian-inc/gato",
+      "description": "Github Attack TOolkit; GitHub Actions pipeline enumeration and attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gato-x",
+      "source": "https://github.com/AdnaneKhan/gato-x",
+      "description": "Github Attack TOolkit - Extreme Edition; GitHub Actions pipeline enumeration and attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gh-hijack-runner",
+      "source": "https://github.com/synacktiv/gh-hijack-runner",
+      "description": "Create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "IMDSpoof",
+      "source": "https://github.com/grahamhelton/IMDSpoof",
+      "description": "Cyber deception; spoofs the AWS IMDS service to return HoneyTokens that can be alerted on",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "octoscan",
+      "source": "https://github.com/synacktiv/octoscan",
+      "description": "Static vulnerability scanner for GitHub action workflow",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pacu",
+      "website": "https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/",
+      "source": "https://github.com/RhinoSecurityLabs/pacu",
+      "description": "AWS exploitation framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "pacu",
+      "keywords": "AWS"
+    },
+    {
+      "name": "PowerZure",
+      "website": "https://powerzure.readthedocs.io/en/latest/",
+      "source": "https://github.com/hausec/PowerZure",
+      "description": "Framework to assess and exploit Azure security",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "EntraID"
+    },
+    {
+      "name": "Public Buckets (GrayHatWarfare)",
+      "website": "https://buckets.grayhatwarfare.com/",
+      "description": "Search public cloud storage buckets across AWS, Azure, Google Cloud, and Alibaba Cloud for exposed files",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "Quiet Riot",
+      "source": "https://github.com/righteousgambit/quiet-riot",
+      "description": "Unauthenticated enumeration of cloud principals",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AWS, GCP, Azure"
+    },
+    {
+      "name": "ROADtools",
+      "source": "https://github.com/dirkjanm/ROADtools",
+      "description": "Rogue Office 365 and Azure active Directory tools; a collection of Azure AD/Entra tools for offensive and defensive security purposes",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "EntraID"
+    },
+    {
+      "name": "s3enum",
+      "source": "https://github.com/koenrh/s3enum",
+      "description": "Stealthy Amazon S3 bucket enumeration tool for pentesters",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DNS",
+      "blackarch": "s3enum"
+    },
+    {
+      "name": "Smogcloud",
+      "source": "https://github.com/BishopFox/smogcloud",
+      "description": "Identify AWS cloud assets",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AWS"
+    }
+  ]
+}

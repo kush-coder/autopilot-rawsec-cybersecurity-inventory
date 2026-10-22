@@ -1,0 +1,593 @@
+{
+  "resources": [
+    {
+      "name": "Argument Injection Vectors",
+      "website": "https://sonarsource.github.io/argument-injection-vectors/",
+      "source": "https://github.com/SonarSource/argument-injection-vectors",
+      "description": "Curated list of exploitable options when dealing with argument injection bugs and association between CVEs and vectors",
+      "price": "Free"
+    },
+    {
+      "name": "azure-mindmap",
+      "source": "https://github.com/matro7sh/azure-mindmap",
+      "description": "Mindmap listing all possible compromise paths when faced with an Azure environment during a cloud security engagement",
+      "price": "Free"
+    },
+    {
+      "name": "Bootloaders",
+      "website": "https://www.bootloaders.io/",
+      "source": "https://github.com/magicsword-io/bootloaders",
+      "description": "Curated list of known malicious bootloaders for various operating systems",
+      "price": "Free"
+    },
+    {
+      "name": "bounty-targets-data",
+      "source": "https://github.com/arkadiyt/bounty-targets-data",
+      "description": "Hourly-updated data dumps of bug bounty platform scopes that are eligible for reports",
+      "price": "Free"
+    },
+    {
+      "name": "bug.directory",
+      "website": "https://bug.directory/",
+      "source": "https://github.com/exploits-club/bug.directory",
+      "description": "Searchable Obsidian vault of vulnerability research, exploit development, and reverse engineering resources",
+      "price": "Free"
+    },
+    {
+      "name": "Bug Bounty Guide",
+      "website": "https://bugbountyguide.com/",
+      "source": "https://github.com/EdOverflow/bugbountyguide",
+      "description": "Launchpad for bug bounty programs and bug bounty hunters",
+      "price": "Free"
+    },
+    {
+      "name": "Bug Bounty Hunting",
+      "website": "https://www.bugbountyhunting.com/",
+      "description": "Search engine for bug bounty writeups, payloads and tips",
+      "price": "Free"
+    },
+    {
+      "name": "Bug Bounty Reference",
+      "source": "https://github.com/ngalongc/bug-bounty-reference",
+      "description": "A list of bug bounty write-up that is categorized by the bug nature",
+      "price": "Free"
+    },
+    {
+      "name": "C2 Matrix",
+      "source": "https://www.thec2matrix.com",
+      "description": "A table comparing most C2 frameworks",
+      "price": "Free"
+    },
+    {
+      "name": "Can I take over XYZ?",
+      "source": "https://github.com/EdOverflow/can-i-take-over-xyz",
+      "description": "List of services and how to claim (sub)domains with dangling DNS records",
+      "price": "Free",
+      "keywords": "subdomain takeover"
+    },
+    {
+      "name": "Cloud Security Atlas",
+      "website": "https://securitylabs.datadoghq.com/cloud-security-atlas/",
+      "description": "Risk register for cloud threats and vulnerabilities, search and filter by cloud provider platform, risk type, and sort by impact, exploitability, and recency",
+      "price": "Free"
+    },
+    {
+      "name": "Cloudvulndb",
+      "website": "https://www.cloudvulndb.org/",
+      "description": "List all known cloud vulnerabilities and CSP security issues",
+      "price": "Free",
+      "keywords": "AWS, Azure, GCP"
+    },
+    {
+      "name": "CSP Bypass Search",
+      "website": "http://cspbypass.com/",
+      "source": "https://github.com/renniepak/CSPBypass",
+      "description": "Helps bypass restrictive domain whitelist based CSP and exploit XSS vulnerabilities",
+      "price": "Free",
+      "keywords": "JSONP, JavaScript"
+    },
+    {
+      "name": "ctf-tools",
+      "source": "https://github.com/zardus/ctf-tools",
+      "description": "Setup scripts for security tools",
+      "price": "Free"
+    },
+    {
+      "name": "CXSECURITY",
+      "website": "https://cxsecurity.com/",
+      "description": "Exploit index",
+      "price": "Free"
+    },
+    {
+      "name": "deepdarkCTI",
+      "source": "https://github.com/fastfire/deepdarkCTI",
+      "description": "Collection of Cyber Threat Intelligence sources from the deep and dark web",
+      "price": "Free"
+    },
+    {
+      "name": "DefaultPassword",
+      "website": "https://default-password.info/",
+      "description": "Default passwords for many devices and services",
+      "price": "Free"
+    },
+    {
+      "name": "dioterms",
+      "website": "https://policymaker.disclose.io/",
+      "source": "https://github.com/disclose/dioterms",
+      "description": "Vulnerability disclosure policy templates; terms for Vulnerability Disclosure Policy (VDP) and Bug Bounty Policy (BBP)",
+      "price": "Free"
+    },
+    {
+      "name": "Exploitalert",
+      "website": "https://www.exploitalert.com/",
+      "description": "Exploit index; semi-automatic intelligence supervised by a human operator to find publicly available exploits in the Internet",
+      "price": "Free"
+    },
+    {
+      "name": "Exploit Database",
+      "website": "https://www.exploit-db.com/",
+      "description": "Exploit index; aka EDB or Exploit-DB; can be searched from the CLI with searchploit, sploitctl, getsploit and many other third party tools",
+      "price": "Free"
+    },
+    {
+      "name": "Extended BApp Store",
+      "website": "https://web.archive.org/web/20230925095037/https://apps.burpsuite.guide/",
+      "description": "Burp Suite extensions search engine",
+      "price": "Free"
+    },
+    {
+      "name": "family-of-client-ids-research",
+      "source": "https://github.com/secureworks/family-of-client-ids-research",
+      "description": "Research into undocumented behavior of Azure AD refresh tokens for unauthorized access and persistence",
+      "price": "Free"
+    },
+    {
+      "name": "Filesec.io",
+      "website": "https://filesec.io/",
+      "description": "Curated list of file extensions being used by attackers",
+      "price": "Free"
+    },
+    {
+      "name": "findsecuritycontacts.com",
+      "website": "https://findsecuritycontacts.com/",
+      "source": "https://github.com/OllieJC/findsecuritycontacts.com",
+      "description": "List of security contacts for websites extracted from security.txt and dnssecuritytxt",
+      "price": "Free"
+    },
+    {
+      "name": "Free Rainbow Tables",
+      "website": "https://freerainbowtables.com",
+      "description": "Pre-computed rainbow tables for NTLM, SHA1, MySQLSHA1, MD5, LM and half-LM challenges",
+      "price": "Free"
+    },
+    {
+      "name": "Forensics Wiki",
+      "website": "http://forensicswiki.org/wiki/Main_Page",
+      "description": "Forensics tips and tools",
+      "price": "Free"
+    },
+    {
+      "name": "fuzzdb",
+      "website": "https://github.com/fuzzdb-project/fuzzdb",
+      "description": "Dictionaries of fault injection patterns, predictable resource locations, and regex for matching server responses",
+      "price": "Free"
+    },
+    {
+      "name": "GHDB",
+      "website": "https://www.exploit-db.com/google-hacking-database",
+      "description": "Google Hacking Database; Collection of google dorks",
+      "price": "Free"
+    },
+    {
+      "name": "Guifre",
+      "website": "https://guif.re/",
+      "description": "Security, system and network cheatsheets",
+      "price": "Free"
+    },
+    {
+      "name": "GTFOBins",
+      "website": "https://gtfobins.github.io/",
+      "source": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "Curated list/cheatsheet of Unix binaries that can be exploited by an attacker to bypass local security restrictions, obtain shells, read files",
+      "price": "Free"
+    },
+    {
+      "name": "GraphQL Threat Matrix",
+      "source": "https://github.com/nicholasaleks/graphql-threat-matrix",
+      "description": "GraphQL threat framework to research security gaps in GraphQL implementations; documente features and limits of various engines",
+      "price": "Free"
+    },
+    {
+      "name": "Hacking the cloud",
+      "source": "https://hackingthe.cloud/",
+      "description": "Encyclopedia of the attacks/tactics/techniques for offensive cloud exploitation",
+      "price": "Free",
+      "keywords": "AWS, Azure, GCP, Terraform"
+    },
+    {
+      "name": "HackTricks",
+      "website": "https://book.hacktricks.xyz/",
+      "source": "https://github.com/carlospolop/hacktricks",
+      "description": "Guide and cheatsheet for pentesting: shell, linux exploitation, windows exploitation, mobile app pentesting, network pentesting, web pentesting, binary exploit, forensics, crypto, backdoor, etc.",
+      "price": "Free"
+    },
+    {
+      "name": "HackTricks Cloud",
+      "website": "https://cloud.hacktricks.xyz/",
+      "source": "https://github.com/carlospolop/hacktricks-cloud",
+      "description": "Guide and cheatsheet for cloud pentesting: CI/CD, Kubernetes, GCP, GWS, AWS, Azure, Digital Ocean, IBM Cloud, etc.",
+      "price": "Free"
+    },
+    {
+      "name": "Hardware All The Things",
+      "website": "https://swisskyrepo.github.io/HardwareAllTheThings/",
+      "source": "https://github.com/swisskyrepo/HardwareAllTheThings",
+      "description": "Curated collection of valuable payloads and bypass techniques tailored for hardware and IoT security",
+      "price": "Free"
+    },
+    {
+      "name": "Havoc store",
+      "website": "https://p4p1.github.io/havoc-store/",
+      "source": "https://github.com/p4p1/havoc-store",
+      "description": "Havoc modules and extensions store",
+      "price": "Free"
+    },
+    {
+      "name": "HijackLibs",
+      "website": "https://hijacklibs.net/",
+      "source": "https://github.com/wietze/HijackLibs",
+      "description": "Tracking publicly disclosed DLL hijacking opportunities",
+      "price": "Free"
+    },
+    {
+      "name": "HTML5 Security Cheatsheet",
+      "website": "http://html5sec.org/",
+      "description": "XSS vector making use of HTML5, HTML4, CSS, DOM, UFT7, SVG, JSON, etc.",
+      "price": "Free"
+    },
+    {
+      "name": "Intelligence IPv4 Blocklist",
+      "source": "https://github.com/duggytuxy/Intelligence_IPv4_Blocklist",
+      "description": "Malicious IPv4 address blacklist of Botnets, RATs, scanners & criminal exploitations",
+      "price": "Free"
+    },
+    {
+      "name": "Internal All The Things",
+      "website": "https://swisskyrepo.github.io/InternalAllTheThings/",
+      "source": "https://github.com/swisskyrepo/InternalAllTheThings/",
+      "description": "Active Directory, internal infrastructure and cloud penetration test, red team cheatsheets",
+      "price": "Free"
+    },
+    {
+      "name": "Kaonashi",
+      "source": "https://github.com/kaonashi-passwords/Kaonashi",
+      "description": "Wordlist, hashcat rules and hashcat masks from Kaonashi project (RootedCON 2019)",
+      "price": "Free"
+    },
+    {
+      "name": "Linux kernel syscall tables",
+      "website": "https://syscalls.mebeim.net/",
+      "source": "https://github.com/mebeim/linux-syscalls",
+      "description": "Browsable linux kernel syscall tables built with Systrack",
+      "price": "Free"
+    },
+    {
+      "name": "LOFLCAB",
+      "website": "https://lofl-project.github.io/",
+      "source": "https://github.com/LOFL-Project/LOFLCAB",
+      "description": "Living off the Foreign Land Cmdlets and Binaries; curated list of cmdlets and binaries that are capable of performing activities from the local Windows system to a remote system",
+      "price": "Free"
+    },
+    {
+      "name": "LOLAPPS",
+      "website": "https://lolapps-project.github.io/",
+      "source": "https://github.com/LOLAPPS-Project/LOLAPPS",
+      "description": "Living Off The Land Applications; curated list of applications that have been used & abused for adversarial gain",
+      "price": "Free"
+    },
+    {
+      "name": "LOLBAS",
+      "website": "https://lolbas-project.github.io/",
+      "source": "https://github.com/LOLBAS-Project/LOLBAS",
+      "description": "Living Off The Land Binaries and Scripts; curated list/cheatsheet of Windows binaries that can be exploited by an attacker to bypass local security restrictions, obtain shells, read files",
+      "price": "Free"
+    },
+    {
+      "name": "LOLESXi",
+      "website": "https://lolesxi-project.github.io/LOLESXi/",
+      "source": "https://github.com/lolesxi-project/LOLESXi",
+      "description": "Living Off The Land ESXi; curated list of VMware ESXi binaries and scripts that adversaries have used in operations",
+      "price": "Free"
+    },
+    {
+      "name": "LOLDrivers",
+      "website": "https://www.loldrivers.io/",
+      "source": "https://github.com/magicsword-io/LOLDrivers",
+      "description": "Living Off The Land Drivers; curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks",
+      "price": "Free"
+    },
+    {
+      "name": "LOLOL",
+      "website": "https://lolol.farm/",
+      "description": "Living Off the Living Off the Land; collection of curated list/cheatsheet of commands and other resources that can be abused or allow security bypass on various environments",
+      "price": "Free"
+    },
+    {
+      "name": "LOOBins",
+      "website": "https://www.loobins.io/",
+      "source": "https://github.com/infosecB/LOOBins",
+      "description": "Living Off the Orchard macOS Binaries; curated list/cheatsheet of macOS binaries that can be exploited by an attacker for malicious purpose",
+      "price": "Free"
+    },
+    {
+      "name": "LOTHardware",
+      "website": "https://lothardware.com.tr/",
+      "description": "Living Off The Hardware; curated list of guidance for offensive hardware and offensive devices",
+      "price": "Free"
+    },
+    {
+      "name": "LOTS",
+      "website": "https://lots-project.com/",
+      "description": "Living Off Trusted Sites; curated list of popular legitimate domains used by attackers to conduct phishing, C&C, exfiltration and downloading tools to evade detection",
+      "price": "Free"
+    },
+    {
+      "name": "MalAPI",
+      "website": "https://malapi.io/",
+      "description": "Maps Windows APIs to common techniques used by malware",
+      "price": "Free"
+    },
+    {
+      "name": "Malware Traffic Analysis",
+      "website": "https://www.malware-traffic-analysis.net/",
+      "description": "Malware traffic analysis blog and pastebin posts with pcap and malware samples attached; traffic analysis exercises",
+      "price": "Free"
+    },
+    {
+      "name": "MD5 maxmin record",
+      "website": "http://0xf.kr/md5/",
+      "description": "Collection of various extremes of MD5 hashes",
+      "price": "Free"
+    },
+    {
+      "name": "MDN - Event reference",
+      "website": "https://developer.mozilla.org/en-US/docs/Web/Events",
+      "description": "DOM Events reference, useful for XSS",
+      "price": "Free"
+    },
+    {
+      "name": "MichMich",
+      "website": "https://michmich.eu/",
+      "description": "Personal pentest notes and cheat sheets",
+      "price": "Free"
+    },
+    {
+      "name": "Microsoft Wont-Fix-List",
+      "source": "https://github.com/cfalta/MicrosoftWontFixList",
+      "description": "List of vulnerabilities or design flaws Microsoft does not intend to fix",
+      "price": "Free"
+    },
+    {
+      "name": "Misconfiguration Manager",
+      "source": "https://github.com/subat0mik/Misconfiguration-Manager",
+      "description": "Knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance",
+      "price": "Free",
+      "keywords": "MCM, SCCM, ConfigMgr"
+    },
+    {
+      "name": "NetSPI SQL Injection Wiki",
+      "website": "https://sqlwiki.netspi.com/",
+      "source": "https://github.com/NetSPI/SQLInjectionWiki",
+      "description": "A wiki knowledge base focused on SQL injection for various DBMS",
+      "price": "Free"
+    },
+    {
+      "name": "Outpacket",
+      "source": "https://github.com/n00py/Outpacket",
+      "description": "Cheatsheet maps common impacket workflows to their modern alternatives",
+      "price": "Free"
+    },
+    {
+      "name": "Packet Storm",
+      "website": "https://packetstormsecurity.com/",
+      "description": "Exploit index and security news",
+      "price": "Free"
+    },
+    {
+      "name": "Payloads All The Things",
+      "website": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
+      "source": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+      "price": "Free"
+    },
+    {
+      "name": "Pentesting Azure Mindmap",
+      "source": "https://github.com/synacktiv/Mindmaps",
+      "description": "Mindmap to get the Global Admin access for Azure penetration tests",
+      "price": "Free"
+    },
+    {
+      "name": "persistence-info",
+      "website": "https://persistence-info.github.io/",
+      "source": "https://github.com/persistence-info/persistence-info.github.io",
+      "description": "Curated list of techniques to gain Windows persistence",
+      "price": "Free"
+    },
+    {
+      "name": "Portswigger - XSS cheat sheet",
+      "website": "https://portswigger.net/web-security/cross-site-scripting/cheat-sheet",
+      "description": "XSS cheat sheet containing many vectors that can help bypassing WAFs and filters",
+      "price": "Free"
+    },
+    {
+      "name": "Priv2Admin",
+      "source": "https://github.com/gtworek/Priv2Admin",
+      "description": "Exploitation paths allowing to use the Windows Privileges to elevate rights within the OS",
+      "price": "Free"
+    },
+    {
+      "name": "Privacy Tools",
+      "website": "https://www.privacytools.io/",
+      "source": "https://github.com/privacytoolsIO/privacytools.io",
+      "description": "Website that provides knowledge and tools to protect your privacy against global mass surveillance",
+      "price": "Free"
+    },
+    {
+      "name": "Probable Wordlists",
+      "source": "https://github.com/berzerk0/Probable-Wordlists",
+      "description": "Password lists sorted by probability originally created for password generation and testing",
+      "price": "Free"
+    },
+    {
+      "name": "PTES",
+      "website": "http://www.pentest-standard.org/",
+      "description": "The penetration testing execution standard covers all steps related to a penetration test",
+      "price": "Free"
+    },
+    {
+      "name": "Red Teaming Tactics and Techniques",
+      "website": "https://ired.team/",
+      "source": "https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques",
+      "description": "Exploring Red Teaming tactics and techniques, some of the common offensive security techniques involving gaining code execution, lateral movement, persistence and more",
+      "price": "Free"
+    },
+    {
+      "name": "Red Teaming and Malware Analysis",
+      "website": "https://gitbook.seguranca-informatica.pt/",
+      "description": "Notes on red teaming, pentest and malware analysis",
+      "price": "Free"
+    },
+    {
+      "name": "RubyFu",
+      "website": "https://rubyfu.net/",
+      "source": "https://github.com/rubyfu/RubyFu",
+      "description": "Offensive Ruby book",
+      "price": "Free"
+    },
+    {
+      "name": "SecLists",
+      "source": "https://github.com/danielmiessler/SecLists",
+      "description": "Collection of multiple types of lists used during security assessments, collected in one place; include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.",
+      "price": "Free"
+    },
+    {
+      "name": "Security Certification Roadmap",
+      "website": "https://pauljerimy.com/security-certification-roadmap/",
+      "source": "https://github.com/sinecurelife/SecCertRoadmapHTML",
+      "description": "Map referencing all security certifications existing in several categories: Implementation, Architecture, Management, Analysis, Defensive Operations, Offensive Operations",
+      "price": "Free"
+    },
+    {
+      "name": "Sploitus",
+      "website": "https://sploitus.com/",
+      "description": "Exploit search engine (PacketStorm, Exploit-DB, 0day.today, etc.) and tools search engine (KitPloit)",
+      "price": "Free"
+    },
+    {
+      "name": "SSH Hardening Guides",
+      "website": "https://www.sshaudit.com/hardening_guides.html",
+      "description": "Guides to hardening SSH on various systems",
+      "price": "Free"
+    },
+    {
+      "name": "SSL Checklist for Pentesters (Explore Security)",
+      "website": "http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html",
+      "description": "List of SSL/TLS checks that can be performed manually with OpenSSL or a web browser",
+      "price": "Free"
+    },
+    {
+      "name": "StegOnline checklist",
+      "website": "https://georgeom.net/StegOnline/checklist",
+      "source": "https://github.com/Ge0rg3/StegOnline/blob/master/src/app/checklist/checklist.component.html",
+      "description": "CTF Image Steganography Checklist",
+      "price": "Free"
+    },
+    {
+      "name": "The Bug Hunter's Methodology",
+      "source": "https://github.com/jhaddix/tbhm",
+      "description": "A collection of tips, tricks, tools, analysis and notes related to web application security assessments and more specifically towards bug hunting in bug bounties",
+      "price": "Free"
+    },
+    {
+      "name": "The Hacker Recipes",
+      "website": "https://www.thehacker.recipes/",
+      "description": "Guide and knowledge base for pentesting: active directory services, servers, web services, intelligence gathering, physical intrusion, social engineering, phishing, mobile apps",
+      "price": "Free"
+    },
+    {
+      "name": "The Hacking Tool Trove",
+      "website": "https://trove.raw.pm/",
+      "description": "THTT; tools cheat sheets, tools command examples, tools references",
+      "price": "Free"
+    },
+    {
+      "name": "TIBER-EU",
+      "website": "https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html",
+      "description": "European framework for threat intelligence-based ethical red-teaming",
+      "price": "Free"
+    },
+    {
+      "name": "Unprotect",
+      "website": "https://unprotect.it/",
+      "description": "Database of information about malware evasion techniques",
+      "price": "Free"
+    },
+    {
+      "name": "Vergilius",
+      "website": "https://www.vergiliusproject.com/",
+      "description": "A collection of Microsoft Windows kernel structures, unions and enumerations; most of them are not officially documented and cannot be found in Windows Driver Kit (WDK) headers",
+      "price": "Free"
+    },
+    {
+      "name": "VOID",
+      "website": "https://www.thevoid.community/",
+      "description": "Verica Open Incident Database; community-contributed collection of software-related incident reports",
+      "price": "Free"
+    },
+    {
+      "name": "VRT",
+      "website": "https://bugcrowd.com/vrt",
+      "source": "https://github.com/bugcrowd/vulnerability-rating-taxonomy",
+      "description": "Bugcrowd Vulnerability Rating Taxonomy (VRT) provides a baseline vulnerability priority scale for bug hunters and organizations",
+      "price": "Free"
+    },
+    {
+      "name": "vx-underground",
+      "website": "https://vx-underground.org/",
+      "description": "Collection of malware source code, samples, and papers",
+      "price": "Free"
+    },
+    {
+      "name": "WADComs",
+      "website": "https://wadcoms.github.io/",
+      "source": "https://github.com/WADComs/WADComs.github.io",
+      "description": "Interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments",
+      "price": "Free"
+    },
+    {
+      "name": "WEAKPASS",
+      "website": "https://weakpass.com/",
+      "description": "Index of wordlists for brute-force attacks",
+      "price": "Free"
+    },
+    {
+      "name": "Windows & Active Directory Exploitation Cheat Sheet and Command Reference",
+      "website": "https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/",
+      "description": "Windows & Active Directory exploitation: enumeration, exploitation, lateral movement, privilege escalation, persistence, domain persistence, post-exploitation",
+      "price": "Free"
+    },
+    {
+      "name": "WTFBins",
+      "website": "https://wtfbins.wtf/",
+      "source": "https://github.com/mttaggart/wtfbins",
+      "description": "Curated list of legitimate binaries that behaves exactly like malware",
+      "price": "Free"
+    },
+    {
+      "name": "XSS Payloads",
+      "website": "https://xss-payloads.paracyberbellum.io/",
+      "description": "Provides advanced XSS payload, tools and documentation about XSS",
+      "price": "Free"
+    }
+  ]
+}

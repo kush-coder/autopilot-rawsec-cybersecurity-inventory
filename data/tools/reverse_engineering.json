@@ -1,0 +1,877 @@
+{
+  "tools": [
+    {
+      "name": "androguard",
+      "source": "https://github.com/androguard/androguard",
+      "description": "Tool for reverse engineering and malware analysis of Android applications",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "angr",
+      "source": "https://github.com/angr/angr",
+      "description": "Platform-agnostic binary analysis framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ANY RUN",
+      "website": "https://any.run/",
+      "description": "Online virtual machine for malware hunting, sandbox with interactive access, real-time data-flow",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Apk2Gold",
+      "source": "https://github.com/lxdvs/apk2gold",
+      "description": "Android decompiler (wrapper for apktool, dex2jar, and jd-gui)",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Apktool",
+      "website": "https://ibotpeaches.github.io/Apktool/",
+      "source": "https://github.com/iBotPeaches/Apktool",
+      "description": "Android disassembler and rebuilder",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "AFLplusplus",
+      "website": "https://aflplus.plus/",
+      "source": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "Afl fuzzer with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "afl++"
+    },
+    {
+      "name": "arm_now",
+      "source": "https://github.com/nongiach/arm_now",
+      "description": "Tool that allows instant setup of virtual machines on various architectures for reverse, exploit, fuzzing and programming purpose",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Barf",
+      "source": "https://github.com/programa-stic/barf-project",
+      "description": "Binary Analysis and Reverse engineering Framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BinDiff",
+      "source": "https://github.com/google/bindiff",
+      "description": "Binary diffing for many architectures compatible with IDA Pro, Binary Ninja and Ghidra",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BOF launcher",
+      "source": "https://github.com/The-Z-Labs/bof-launcher",
+      "description": "Beacon Object File (BOF) launcher; library for executing BOF files in C/C++/Zig applications",
+      "language": "Zig",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Cobal Strike, beacon"
+    },
+    {
+      "name": "bearparser",
+      "website": "https://hshrzd.wordpress.com/pe-bear/",
+      "source": "https://github.com/hasherezade/bearparser",
+      "description": "PE parsing library (from PE-bear)",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Binary Ninja",
+      "website": "https://binary.ninja/",
+      "description": "Crossplatform binary analysis framework",
+      "language": "Python",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "binbloom",
+      "source": "https://github.com/quarkslab/binbloom",
+      "description": "Raw binary firmware analysis software; tries to determine the firmware loading address",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BinCAT",
+      "source": "https://github.com/airbus-seclab/bincat",
+      "description": "Binary code static analyser, with IDA integration; performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+      "language": "OCaml",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "binutils",
+      "website": "https://www.gnu.org/software/binutils/binutils.html",
+      "source": "http://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git",
+      "description": "GNU collection of binary tools",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "binwalk",
+      "source": "https://github.com/devttys0/binwalk",
+      "description": "Analyze, reverse engineer and extract firmware images (and other files, also usefull for Digital Forensics)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Dexcalibur",
+      "website": "https://www.reversense.com/dexcalibur",
+      "source": "https://github.com/FrenchYeti/dexcalibur",
+      "description": "Android reverse engineering platform focus on instrumentation automation (decompile/disass intercepted bytecode at runtime, write hook code, search interesting pattern",
+      "language": "JavaScript",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "boomerang",
+      "source": "https://github.com/nemerle/boomerang",
+      "description": "x86 binaries to C decompiler",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CAPEv2",
+      "website":"https://capesandbox.com/",
+      "source": "https://github.com/kevoreilly/CAPEv2",
+      "description": "Malware sandbox derived from Cuckoo with the goal of adding automated malware unpacking, config and payload extraction",
+      "language": "Python",
+      "price": "Free",
+      "online": "True",
+      "keywords":"Yara, Surcicata, Debugger"
+    },
+    {
+      "name": "Cerberus",
+      "source": "https://github.com/h311d1n3r/Cerberus",
+      "description": "Unstrip Rust and Go binaries (ELF and PE) for static analysis; based on hashing and scoring systems, it can retrieve lots of symbol names",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ctf_import",
+      "website": "http://van.prooyen.com/projects/#ctfimport",
+      "source": "https://github.com/docileninja/ctf_import",
+      "description": "Library to run basic functions from stripped binaries",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CFF Explorer",
+      "website": "http://www.ntcore.com/exsuite.php",
+      "description": "PE Editor",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "COFFLoader",
+      "source": "https://github.com/trustedsec/COFFLoader",
+      "description": "COFF loader that runs Beacon Object Files (BOF) outside of Cobalt Strike",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Cuckoo 3",
+      "source": "https://github.com/cert-ee/cuckoo3",
+      "description": "Python 3 port of Cuckoo, automated malware analysis system",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Cutter",
+      "website": "https://cutter.re/",
+      "source": "https://github.com/rizinorg/cutter",
+      "description": "Qt and C++ GUI for rizin",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "rz-cutter"
+    },
+    {
+      "name": "DbgShell",
+      "source": "https://github.com/Microsoft/DbgShell",
+      "description": "Front-end for the Windows debugger engine",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Decompiler.com",
+      "website": "https://www.decompiler.com/",
+      "description": "C#, Python, Android and Java online decompiler",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Decompiler Explorer",
+      "website": "https://dogbolt.org",
+      "source": "https://github.com/decompiler-explorer/decompiler-explorer",
+      "description": "Multi-decompiler engine; supports angr, BinaryNinja, Boomerang, dewolf, Ghidra, Hex-Rays, RecStudio, Reko, Relyze, RetDec, Snowman",
+      "language": "Python",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Defuse online disassembler",
+      "website": "https://defuse.ca/online-x86-assembler.htm",
+      "description": "Online x86 (32/64 bits) assembler and disassembler",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "de4dot",
+      "source": "https://github.com/de4dot/de4dot",
+      "description": ".NET deobfuscator and unpacker",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dnSpy",
+      "source": "https://github.com/0xd4d/dnSpy",
+      "description": ".NET assembly debugger, decompiler and editor",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dnSpyEx",
+      "source": "https://github.com/dnSpyEx/dnSpy",
+      "description": ".NET assembly debugger, decompiler and editor; fork of dnSpy",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CodemerxDecompile",
+      "website": "https://decompiler.codemerx.com/",
+      "source": "https://github.com/codemerx/CodemerxDecompile",
+      "description": "Standalone .NET decompiler for Mac, Linux and Windows; based on continuation of JustDecompile",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dotPeek",
+      "website": "https://www.jetbrains.com/decompiler/",
+      "description": ".NET decompiler and assembly browser",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "dotpeek"
+    },
+    {
+      "name": "DRAKVUF Sandbox",
+      "source": "https://github.com/CERT-Polska/drakvuf-sandbox",
+      "description": "Automated black-box hypervisor-level malware analysis system",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Droidefense",
+      "source": "https://github.com/droidefense/engine",
+      "description": "Android apps/malware analysis/reversing tool",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DroidGuard VM Samples",
+      "website": "https://www.romainthomas.fr/publication/22-sstic-blackhat-droidguard-safetynet/",
+      "source": "https://github.com/romainthomas/droidguard-samples",
+      "description": "Different versions of the DroidGuard VM as well as different version of the bytecode running through this VM",
+      "price": "Free",
+      "online": "False",
+      "keywords": "android"
+    },
+    {
+      "name": "edb",
+      "source": "https://github.com/eteran/edb-debugger",
+      "description": "Cross platform AArch32/x86/x86-64 debugger",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ELFLoader",
+      "source": "https://github.com/trustedsec/ELFLoader",
+      "description": "ELF object in memory loader/runner for running follow on capabilities across x86_64 and x86 Linux operating systems",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "EMBA",
+      "website": "https://github.com/e-m-b-a/emba/wiki",
+      "source": "https://github.com/e-m-b-a/emba",
+      "description": "Security analyzer for firmware of embedded devices",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Flare",
+      "website": "http://www.nowrap.de/flare.html",
+      "description": "Processes SWF and extract scripts from it",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Flasm",
+      "website": "http://www.nowrap.de/flasm.html",
+      "source": "https://sourceforge.net/projects/flasm/",
+      "description": "Disassembler tool for SWF bytecode",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Flutter Spy",
+      "source": "https://github.com/anasfik/flutter-spy",
+      "description": "Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Frida",
+      "website": "https://www.frida.re/",
+      "source": "https://github.com/frida/frida",
+      "description": "Dynamic code instrumentation toolkit",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "frida"
+    },
+    {
+      "name": "Frinet",
+      "website": "https://www.synacktiv.com/publications/frinet-reverse-engineering-made-easier",
+      "source": "https://github.com/synacktiv/frinet",
+      "description": "Multi-platform Frida trace generatior",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GDB",
+      "website": "https://www.gnu.org/software/gdb/",
+      "source": "http://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git",
+      "description": "GNU debugger",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gftrace",
+      "source": "https://github.com/leandrofroes/gftrace",
+      "description": "Windows API tracing for Go binaries",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Ghidra",
+      "website": "https://ghidra-sre.org/",
+      "source": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Software reverse engineering (SRE) suite of tools: disassembly, assembly, decompilation, graphing, scripting, etc.",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hiew",
+      "website": "http://www.hiew.ru/",
+      "description": "x86_64 disassembler for multiple formats",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Honggfuzz",
+      "website": "https://honggfuzz.dev/",
+      "source": "https://github.com/google/honggfuzz",
+      "description": "Security oriented software fuzzer; supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "honggfuzz"
+    },
+    {
+      "name": "Hopper",
+      "website": "https://www.hopperapp.com/",
+      "description": "Disassembler, decompiler and debugger",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "iaito",
+      "website": "https://www.radare.org/n/iaito.html",
+      "source": "https://github.com/radareorg/iaito",
+      "description": "Qt and C++ GUI for radare2",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "iaito"
+    },
+    {
+      "name": "IDA Pro",
+      "website": "https://www.hex-rays.com/products/ida/",
+      "description": "Disassembler and debugger",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "ILSpy",
+      "source": "https://github.com/icsharpcode/ILSpy",
+      "description": ".NET assembly browser and decompiler to C#",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kluzo",
+      "website": "https://kluzo.net/",
+      "description": ".NET Decompiler and Assembly Browser; decompile .NET assemblies directly in the browser, using WebAssembly, powered by ILSpy",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "ImHex",
+      "website": "https://imhex.werwolv.net/",
+      "source": "https://github.com/WerWolv/ImHex",
+      "description": "Hexadecimal editor tailored for reverse engineers; byte patching, data import / export, data inspector, huge file support, file hashing, disassembler for many architectures, data analyzer",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST, pattern, disassembler, YARA",
+      "blackarch": "imhex"
+    },
+    {
+      "name": "jadx",
+      "source": "https://github.com/skylot/jadx",
+      "description": "DEX to Java decompiler",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Java Decompilers",
+      "website": "http://www.javadecompilers.com/",
+      "description": ".JAR and .Class to Java decompiler",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "JD-GUI",
+      "website": "http://jd.benow.ca/",
+      "source": "https://github.com/java-decompiler/jd-gui",
+      "description": "GUI tool decompiling JAVA",
+      "language": "Java",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "jd-gui"
+    },
+    {
+      "name": "JEB",
+      "website": "https://www.pnfsoftware.com/jeb2/",
+      "description": "Disassembler, decompiler and debugger",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "JPEXS Free Flash Decompiler",
+      "source": "https://github.com/jindrapetrik/jpexs-decompiler",
+      "description": "A.k.a ffdec, flash SWF decompiler",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "JSDetox",
+      "website": "http://relentless-coding.org/projects/jsdetox/",
+      "source": "https://github.com/svent/jsdetox",
+      "description": "Javascript deobfustcator",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kemon",
+      "source": "https://github.com/didi/kemon",
+      "description": "macOS kernel pre and post callback-based framework",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Krakatau",
+      "source": "https://github.com/Storyyeller/Krakatau",
+      "description": "Java decompiler, assembler, and disassembler",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kaitai Struct",
+      "website": "https://kaitai.io/",
+      "source": "https://github.com/kaitai-io/kaitai_struct",
+      "description": "Declarative language to generate binary data parsers in various languages",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ldd",
+      "website": "https://linux.die.net/man/1/ldd",
+      "description": "Tool that print shared library dependencies",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Metasm",
+      "website": "http://metasm.cr0.org/",
+      "source": "https://github.com/jjyg/metasm",
+      "description": "Assembler, disassembler, compiler and debugger",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Medusa",
+      "source": "https://github.com/wisk/medusa",
+      "description": "Interactive multi-architecture and multi-formats disassembler running on Windows and Linux",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "netzob",
+      "source": "https://github.com/netzob/netzob",
+      "description": "Protocol reverse engineering, modeling and fuzzing",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ODA",
+      "source": "https://github.com/syscall7/oda",
+      "description": "Advanced multi-architecture online disassembler supporting a lot of architectures and object file formats",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ObjectWalker",
+      "source": "https://github.com/p0dalirius/objectwalker",
+      "description": "Module to explore the object tree to extract paths to interesting objects in memory",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OllyDbg",
+      "website": "http://www.ollydbg.de/",
+      "description": "Windows debugger",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PANDA",
+      "website": "https://panda.re/",
+      "source": "https://github.com/panda-re/panda",
+      "description": "Platform for architecture-neutral dynamic analysis",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "QEMU"
+    },
+    {
+      "name": "PASTIS",
+      "website": "https://quarkslab.github.io/pastis/index.html",
+      "source": "https://github.com/quarkslab/pastis",
+      "description": "Fuzzing framework aiming at combining various software testing techniques within the same workflow to perform collaborative fuzzing also called ensemble fuzzing; supported engines are Honggfuzz, AFL++, TritonDSE",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pe-bear",
+      "website": "https://hshrzd.wordpress.com/pe-bear/",
+      "description": "PE reverse tool: recognizes packers, fast disassembler, visualization of sections layout, selective comparing of two chosen PE files",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PE Explorer Disassembler",
+      "website": "http://www.heaventools.com/PE_Explorer_disassembler.htm",
+      "description": "Windows disassembler",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Plasma",
+      "source": "https://github.com/plasma-disassembler/plasma",
+      "description": "x86/ARM/MIPS interactive disassembler",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "QBinDiff",
+      "source": "https://github.com/quarkslab/qbindiff",
+      "description": "Binary diffing; addressing the diffing as a Network Alignement Quadratic Problem",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Qira",
+      "source": "https://github.com/geohot/qira",
+      "description": "Timeless debugger (QIRA = QEMU Interactive Runtime Analyser)",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RABCDAsm",
+      "website": "http://blog.thecybershadow.net/2010/05/05/announcing-rabcdasm/",
+      "source": "https://github.com/CyberShadow/RABCDAsm",
+      "description": "ActionScript disassembler",
+      "language": "D",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "radare2",
+      "website": "https://www.radare.org/r/",
+      "source": "https://github.com/radareorg/radare2",
+      "description": "Crossplatform binary analysis framework, disassembler, decompiler and debugger, support collaborative analysis",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "radare2"
+    },
+    {
+      "name": "rbkb",
+      "source": "https://github.com/emonti/rbkb",
+      "description": "Ruby BlackBag; a miscellaneous collection of command-line tools and ruby library helpers related to pen-testing and reversing",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Recaf",
+      "website": "https://www.coley.software/Recaf/",
+      "source": "https://github.com/Col-E/Recaf",
+      "description": "Edit Java bytecode, insert single line Java statements into the bytecode, recompile decompiled code",
+      "language": "Java",
+      "price": "Free",
+      "online":"False",
+      "blackarch": "recaf"
+    },
+    {
+      "name": "ReFlutter",
+      "website": "https://swarm.ptsecurity.com/fork-bomb-for-flutter/",
+      "source": "https://github.com/Impact-I/Reflutter",
+      "description": "Flutter reverse engineering framework: allow traffic monitoring and interception, print classes and functions, display absolute code offset for functions, etc.",
+      "language": "Python",
+      "price": "Free",
+      "online":"False"
+    },
+    {
+      "name": "Relyze",
+      "website": "https://www.relyze.com/overview.html",
+      "description": "x86 and ARM graphical interactive disassembler with Ruby plugin framework",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "RetDec",
+      "website": "https://retdec.com/",
+      "source": "https://github.com/avast-tl/retdec",
+      "description": "Multi file formats and architectures machine-code decompiler",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Rizin",
+      "website": "https://rizin.re/",
+      "source": "https://github.com/rizinorg/rizin",
+      "description": "Crossplatform binary analysis framework, disassembler, decompiler and debugger, support collaborative analysis; originally forked from radare2",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "rizin"
+    },
+    {
+      "name": "sandsifter",
+      "source": "https://github.com/xoreaxeaxeax/sandsifter",
+      "description": "x86 processor fuzzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Snowman",
+      "source": "https://github.com/djaessel/snowman",
+      "description": "Native code to C/C++ decompiler, supporting x86, AMD64, and ARM architectures, exists as standalone app or as a plug-in",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "strace",
+      "source": "https://sourceforge.net/projects/strace/",
+      "description": "Debugger for Linux",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Swftools",
+      "website": "http://www.swftools.org/",
+      "source": "https://github.com/matthiaskramm/swftools",
+      "description": "Collection of utilities to work with SWF files",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "theZoo",
+      "website": "https://thezoo.morirt.com/",
+      "source": "https://github.com/ytisf/theZoo",
+      "description": "Repository of live malwares for malware analysis",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Triton",
+      "website": "https://triton.quarkslab.com/",
+      "source": "https://github.com/JonathanSalwan/Triton/",
+      "description": "Dynamic binary analysis framework, automate reverse engineering",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "TritonDSE",
+      "website": "https://quarkslab.github.io/tritondse/",
+      "source": "https://github.com/quarkslab/tritondse",
+      "description": "Triton-based DSE library with loading and exploration capabilities",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "TTD-Bindings",
+      "source": "https://github.com/commial/ttd-bindings",
+      "description": "Bindings for Microsoft WinDBG Time Travel Debugging (TTD)",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Tweezer",
+      "source": "https://github.com/user1342/Tweezer",
+      "description": "Identifying function names in stripped binaries and un-named functions",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "UglifyJS2",
+      "website": "https://www.npmjs.com/package/uglify-js",
+      "source": "https://github.com/mishoo/UglifyJS2",
+      "description": "JavaScript obfuscator or beautifier toolkit",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "uncompyle",
+      "source": "https://github.com/gstarnberger/uncompyle",
+      "description": "Python 2.7 binaries (.pyc) decompiler",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "uncompyle6",
+      "source": "https://github.com/rocky/python-uncompyle6",
+      "description": "Python 1.5, 2.1 to 2.7, 3.1 to 3.6 binaries (.pyc) decompiler",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Vais",
+      "source": "https://github.com/hahwul/vais",
+      "description": "SWF vulnerability and information scanner",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "WinDbg",
+      "website": "http://www.windbg.org/",
+      "description": "Windows debugger",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "x64dbg",
+      "website": "https://x64dbg.com/",
+      "source": "https://github.com/x64dbg/x64dbg",
+      "description": "Windows debugger",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "XenoScan",
+      "source": "https://github.com/nickcano/XenoScan",
+      "description": "Processes memory scanner",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Xori",
+      "website": "https://www.endgame.com/tools",
+      "source": "https://github.com/endgameinc/xori",
+      "description": "Disassembly and static analysis library that provides triage analysis data",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "xxxswf",
+      "source": "https://bitbucket.org/Alexander_Hanel/xxxswf/src",
+      "description": "Small script for carving, scanning, compressing, decompressing and analyzing SWF files",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "tools": [
+    {
+      "name": "broneypote",
+      "source": "https://github.com/laluka/broneypote",
+      "description": "Honeypot",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Canarytokens",
+      "website": "https://canarytokens.org/generate",
+      "source": "https://github.com/thinkst/canarytokens",
+      "description": "Quickly deployable honeypot with docker image, the online service allows to get alerted by email for URL token, DNS token, unique email address, custom image, MS word doc., Acrobat Reader PDF doc., and more",
+      "language": "Python",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Coalmine",
+      "source": "https://github.com/JohnEarle/coalmine",
+      "description": "Canary orchestration platform for deploying and managing canary objects in cloud infrastructure; manage the canary and destination logging (Cloudtrail, Audit Sink, …); support alerting to various destinations",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DejaVU",
+      "source": "https://github.com/bhdresh/Dejavu",
+      "description": "Deception framework which can be used to deploy decoys across the infrastructure",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Galah",
+      "source": "https://github.com/0x4D31/galah",
+      "description": "LLM-powered web honeypot using the OpenAI API",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Honeyscanner",
+      "source": "https://github.com/honeynet/honeyscanner",
+      "description": "Vulnerability analyzer for honeypots",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "pypotomux",
+      "source": "https://github.com/laluka/pypotomux",
+      "description": "Protocol demuxed honeypot and wordlists collected from it",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Trapster Community",
+      "website": "https://trapster.cloud",
+      "source": "https://github.com/0xBallpoint/trapster-community",
+      "description": "Multi-services asynchronous honeypot solution with real-time threat detection",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

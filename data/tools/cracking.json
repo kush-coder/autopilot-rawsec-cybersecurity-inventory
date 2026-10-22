@@ -1,0 +1,519 @@
+{
+  "tools": [
+    {
+      "name": "bkcrack",
+      "source": "https://github.com/kimci86/bkcrack",
+      "description": "Crack legacy zip encryption with Biham and Kocher's known plaintext attack",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "bkcrack"
+    },
+    {
+      "name": "BEWGor",
+      "source": "https://github.com/berzerk0/BEWGor",
+      "description": "Bull's Eye Wordlist Generator, password wordlist generator based on target information",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "Bopscrk",
+      "source": "https://github.com/R3nt0n/bopscrk",
+      "description": "Before Outset PaSsword CRacKing, password wordlist generator with exclusive features like lyrics based mode",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator, lyrics",
+      "blackarch": "bopscrk"
+    },
+    {
+      "name": "CeWL",
+      "source": "https://github.com/digininja/CeWL",
+      "description": "Custom wordlist generator based on website crawling",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator",
+      "blackarch": "cewl"
+    },
+    {
+      "name": "ComPP",
+      "source": "https://github.com/sec-it/ComPP",
+      "description": "Company Passwords Profiler helps making a bruteforce wordlist for a targeted company",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator",
+      "blackarch": "compp"
+    },
+    {
+      "name": "cook",
+      "source": "https://github.com/giteshnxtlvl/cook",
+      "description": "Wordlist generator: create permutations and combinations of words with predefined sets of extensions, words and patterns/function to create complex endpoints, wordlists and passwords",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "Cracken",
+      "source": "https://github.com/shmuelamar/cracken",
+      "description": "Password wordlist generator, Smartlist creation and password hybrid-mask",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "CrackerJack",
+      "source": "https://github.com/ctxis/crackerjack",
+      "description": "Hashcat WebUI; session management, mask generation, API, notifications, local and LDAP authentication",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash"
+    },
+    {
+      "name": "Cracklord",
+      "website": "http://jmmcatee.github.io/cracklord/",
+      "source": "https://github.com/jmmcatee/cracklord",
+      "description": "Scalable, pluggable, and distributed system for hash cracking, supports Hashcat",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash, password"
+    },
+    {
+      "name": "CrackQ",
+      "source": "https://github.com/f0cker/crackq",
+      "description": "Hashcat cracking queue system, API and WebUI",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash"
+    },
+    {
+      "name": "crack.sh",
+      "website": "https://crack.sh/",
+      "description": "DES hash cracking service using brute-force and large pre-computed rainbow tables",
+      "price": "Paid",
+      "online": "True",
+      "keywords": "LM, NTLMv1, PPTP, WPA-Enterprise, des_crypt(), Kerberos5"
+    },
+    {
+      "name": "crackpkcs12",
+      "source": "https://github.com/crackpkcs12/crackpkcs12",
+      "description": "Multithreaded program to crack PKCS#12 files (p12 and pfx extensions)",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CrackStation",
+      "website": "https://crackstation.net/",
+      "source": "https://github.com/defuse/crackstation",
+      "description": "Pre-computed lookup tables to crack password hashes",
+      "language": "PHP",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "crunch",
+      "source": "https://sourceforge.net/projects/crunch-wordlist/",
+      "description": "Wordlist generator",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator",
+      "blackarch": "crunch"
+    },
+   {
+      "name": "CUPP",
+      "source": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler, wordlist generator based on user profiling",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator",
+      "blackarch": "cupp"
+    },
+    {
+      "name": "Duplicut",
+      "source": "https://github.com/nil0x42/duplicut",
+      "description": "Remove duplicates from massive wordlist, without sorting it (for dictionary-based password cracking)",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist"
+    },
+    {
+      "name": "elpscrk",
+      "source": "https://github.com/D4Vinci/elpscrk",
+      "description": "Wordlist generator based on user profiling",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist"
+    },
+    {
+      "name": "Fitcrack",
+      "website": "https://fitcrack.fit.vutbr.cz/",
+      "source": "https://github.com/nesfit/fitcrack",
+      "description": "Hashcat-based distributed password cracking system with WebUI",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GAU",
+      "source": "https://github.com/lc/gau",
+      "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, Common Crawl, and URLScan for any given domain",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GeoWordlists",
+      "source": "https://github.com/p0dalirius/GeoWordlists",
+      "description": "Generate wordlists of passwords containing cities at a defined distance around the client city",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GoCrack",
+      "source": "https://github.com/fireeye/gocrack",
+      "description": "Management frontend for hash cracking tools, supporting hashcat",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash, password"
+    },
+    {
+      "name": "graphcat",
+      "source": "https://github.com/Orange-Cyberdefense/graphcat",
+      "description": "Generate graphs and charts based on password cracking results; supports hashcat and john the ripper potfile as well as ntds file",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hashcat",
+      "website": "https://hashcat.net/hashcat/",
+      "source": "https://github.com/hashcat/hashcat",
+      "description": "Hash cracking tool",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "hashcat",
+      "keywords": "password"
+    },
+    {
+      "name": "hashcobra",
+      "source": "https://github.com/hashcat/hashcat",
+      "description": "Hash cracking tool using rainbow tables",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "keywords": "password"
+    },
+    {
+      "name": "HashKitty",
+      "source": "https://github.com/ScriptSathi/HashKitty",
+      "description": "Web interface for Hashcat",
+      "language": "TypeScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hashpass",
+      "source": "https://github.com/dj-zombie/hashpass",
+      "description": "Hashcat WebUI; queuing, local authentication, SMS and email notifications, map integration",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "password"
+    },
+    {
+      "name": "Hashtopolis",
+      "source": "https://github.com/s3inlc/hashtopolis",
+      "description": "Hashcat wrapper for distributed hashcracking",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash"
+    },
+    {
+      "name": "Hashview",
+      "website": "http://www.hashview.io/",
+      "source": "https://github.com/hashview/hashview",
+      "description": "Web-UI for managing, organizing, automating Hashcat commands/tasks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash"
+    },
+    {
+      "name": "John The Ripper",
+      "website": "https://www.openwall.com/john/",
+      "description": "Hash cracking tool",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "password"
+    },
+    {
+      "name": "John the Ripper, Jumbo version",
+      "website": "https://www.openwall.com/john/",
+      "source": "https://github.com/openwall/john",
+      "description": "Hash cracking tool, community-enhanced version of John The Ripper",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "password",
+      "blackarch": "john"
+    },
+    {
+      "name": "johnny",
+      "website": "https://openwall.info/wiki/john/johnny",
+      "source": "https://github.com/openwall/johnny",
+      "description": "GUI frontend to John the Ripper",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "keywords": "password",
+      "blackarch": "johnny"
+    },
+    {
+      "name": "kh2hc",
+      "website": "https://noraj.github.io/kh2hc/",
+      "source": "https://github.com/noraj/kh2hc",
+      "description": "Convert OpenSSH known_hosts file hashed with HashKnownHosts to hashes crackable by Hashcat",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "kh2hc"
+    },
+    {
+      "name": "Kraken",
+      "source": "https://github.com/arcaneiceman/kraken",
+      "description": "Hashcat-based distributed password cracking system with WebUI; has a desktop client in addition",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kraker",
+      "source": "https://github.com/zzzteph/kraker",
+      "description": "Distributed password brute-force system, supports Hashcat",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash"
+    },
+    {
+      "name": "longtongue",
+      "source": "https://github.com/edoardottt/longtongue",
+      "description": "Password wordlist generator based on target information",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "lyricpass",
+      "source": "https://github.com/initstring/lyricpass",
+      "description": "Tool to generate wordlists based on lyrics",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator, lyrics",
+      "blackarch": "lyricpass"
+    },
+    {
+      "name": "Mentalist",
+      "source": "https://github.com/sc0tfree/mentalist",
+      "description": "Graphical tool for custom wordlist generation, can output rules compatible with Hashcat and John the Ripper",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator, hashcat, john",
+      "blackarch": "mentalist"
+    },
+    {
+      "name": "Narthex",
+      "website": "https://mcdim.xyz/projects/n/",
+      "source": "https://github.com/MichaelDim02/Narthex",
+      "description": "Modular personalized dictionary generator",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "npk",
+      "source": "https://github.com/c6fc/npk",
+      "description": "Distributed hash cracking platform meant to be deployed on AWS (Cognito, DynamoDB, S3) so you pay only when you have a task running",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "NTLM to password",
+      "website": "https://ntlm.pw/",
+      "description": "NTLM hash lookup table, billions of passwords indexed",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "NTLMv1 Multi Tool",
+      "source": "https://github.com/evilmog/ntlmv1-multi",
+      "description": "Formats NTLMv1 challenge responses into a format that can be cracked with hashcat",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ntlmv1-multi"
+    },
+    {
+      "name": "Ophcrack",
+      "website": "http://ophcrack.sourceforge.net/",
+      "source": "https://sourceforge.net/projects/ophcrack/",
+      "description": "Windows hash cracker based on rainbow tables",
+      "price": "Free",
+      "online": "False",
+      "keywords": "password"
+    },
+    {
+      "name": "PACK",
+      "source": "https://github.com/iphelix/pack",
+      "description": "A collection of utilities developed to aid in analysis of password lists in order to enhance password cracking through pattern detection of masks, rules, character-sets and other password characteristics",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "pnwgen",
+      "source": "https://github.com/toxydose/pnwgen",
+      "description": "Phone number wordlist generator",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator, phone"
+    },
+    {
+      "name": "PowerSniper",
+      "source": "https://github.com/codewatchorg/PowerSniper",
+      "description": "Password spraying script and helper for creating password lists",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "pydictor",
+      "source": "https://github.com/LandGrey/pydictor",
+      "description": "Multi-method password wordlist generator",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator",
+      "blackarch": "pydictor"
+    },
+    {
+      "name": "RubyHashcat",
+      "website": "https://www.praetorian.com/blog/how-to-build-hashcat-api-in-ruby-to-crack-passwords-in-the-aws-cloud/",
+      "source": "https://github.com/praetorian-inc/ruby_hashcat",
+      "description": "Command line wrapper, library, and REST API for oclHashcat",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "rulesfinder",
+      "source": "https://github.com/synacktiv/rulesfinder",
+      "description": "Machine-learn password mangling rules; finds efficient password mangling rules (for John the Ripper or Hashcat) for a given dictionary and a list of passwords",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ShuckNT",
+      "website": "https://shuck.sh",
+      "source": "https://github.com/yanncam/ShuckNT",
+      "description": "Downgrade, convert, dissect and shuck authentication token based on Data Encryption Standard (DES)",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Spraygen",
+      "source": "https://github.com/3ndG4me/spraygen",
+      "description": "Permutation-based password list generator",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "TTPassGen",
+      "source": "https://github.com/tp7309/TTPassGen",
+      "description": "Flexible and scriptable password dictionary/wordlist generator",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "Wavecrack",
+      "source": "https://github.com/wavestone-cdt/wavecrack",
+      "description": "Hashcat WebUI; asynchronous task, chain tasks, statistics, export, segregation, local and LDAP authentication",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "WebHashcat",
+      "source": "https://github.com/hegusung/WebHashcat",
+      "description": "Hashcat WebUI with distributed cracking sessions and analytics",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GUI, hashcat, crack, hash"
+    },
+    {
+      "name": "WOG",
+      "website": "https://zzzteph.github.io/weakpass/",
+      "source": "https://github.com/zzzteph/weakpass",
+      "description": "Weakpass rule-based online generator; generates a wordlist based on a set of words entered by the user",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "True",
+      "keywords": "wordlist, generator"
+    },
+    {
+      "name": "wordlist.rb",
+      "source": "https://github.com/postmodern/wordlist.rb",
+      "description": "Library for reading, combining, manipulating, and building wordlists, efficiently",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "wordlistctl",
+      "source": "https://github.com/BlackArch/wordlistctl",
+      "description": "Fetch, install and search wordlist archives from websites and torrent peers",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "wordlistctl"
+    },
+    {
+      "name": "wordlistgen",
+      "source": "https://github.com/ameenmaali/wordlistgen",
+      "description": "Generate context-specific wordlists for content discovery from lists of URLs or paths",
+      "language": "Go",
+      "price": "Free",
+      "online":"False"
+    }
+  ]
+}

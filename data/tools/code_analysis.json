@@ -1,0 +1,243 @@
+{
+  "tools": [
+    {
+      "name": "Adhrit",
+      "source": "https://github.com/abhi-r3v0/Adhrit",
+      "description": "Android APK reversing and analysis suite",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "AndroBugs Framework",
+      "source": "https://github.com/AndroBugs/AndroBugs_Framework",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "APKHunt",
+      "source": "https://github.com/Cyber-Buddy/APKHunt",
+      "description": "Static code analysis for Android apps that is based on the OWASP MASVS framework",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "APKLeaks",
+      "source": "https://github.com/dwisiswant0/apkleaks",
+      "description": "Scanning APK file for URIs, endpoints and secrets",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Bearer",
+      "website": "https://www.bearer.com",
+      "source": "https://github.com/bearer/bearer",
+      "description": "Static application security testing tool that helps discover, filter, and prioritize security risks and vulnerabilities",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "Brakeman",
+      "website": "https://brakemanscanner.org/",
+      "source": "https://github.com/presidentbeef/brakeman",
+      "description": "Static analysis security vulnerability scanner for Ruby on Rails applications",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "cIFrex",
+      "website": "https://cifrex.org",
+      "source": "https://github.com/MaksymilianA/cifrex",
+      "description": "Regexp static code analysis",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "CodeCat",
+      "source": "https://github.com/timb-machine-mirrors/CoolerVoid-codecat/forks",
+      "description": "Automatic code static analysis tool to detect bugs and vulnerabilities",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "CodeQL",
+      "website": "https://codeql.github.com/",
+      "source": "https://github.com/github/codeql",
+      "description": "Semantic code analysis engine; discover vulnerabilities across a codebase, lets you query code as though it were data, write a query to find all variants of a vulnerability",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "codeql"
+    },
+    {
+      "name": "Dawnscanner",
+      "source": "https://github.com/thesp0nge/dawnscanner",
+      "description": "Static analysis security scanner for ruby written web applications; supports Sinatra, Padrino and Ruby on Rails frameworks",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "dawnscanner"
+    },
+    {
+      "name": "grepmarx",
+      "source": "https://github.com/Orange-Cyberdefense/grepmarx",
+      "description": "Source code static analysis platform with WebUI based on semgrep",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Joern",
+      "website": "https://joern.io/",
+      "source": "https://github.com/joernio/joern",
+      "description": "Code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs",
+      "language": "Scala",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kube-hunter",
+      "website": "https://aquasecurity.github.io/kube-hunter/",
+      "source": "https://github.com/aquasecurity/kube-hunter/",
+      "description": "Scanner for security weaknesses in Kubernetes clusters",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "kube-hunter"
+    },
+    {
+      "name": "LICMA",
+      "website": "https://figshare.com/articles/software/LICMA_Language_Independent_Crypto-misuse_Analysis_with_a_Java_and_Python_analysis_component/16538568/1",
+      "source": "https://github.com/stg-tud/licma",
+      "description": "Language Independent Crypto-Misuse Analysis; multi-language analysis tool to identify incorrect initialization of crypto functions",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "MobSF",
+      "website": "https://mobsf.github.io/docs/",
+      "source": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Medusa",
+      "source": "https://github.com/Ch0pin/medusa",
+      "description": "Mobile Edge-Dynamic Unified Security Analysis ; Modular automation framework and script repository for runtime testing and investigating Android and iOS apps",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "NodeJsScan",
+      "source": "https://github.com/ajinabraham/NodeJsScan",
+      "description": "Static security code scanner for Node.js applications",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Open Source Insights",
+      "website": "https://deps.dev/",
+      "source": "https://github.com/google/deps.dev",
+      "description": "Overview of dependencies, including security advisories and OpenSSF scorecard",
+      "language": "Go",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "QARK",
+      "source": "https://github.com/linkedin/qark",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Semgrep",
+      "website": "https://semgrep.dev/",
+      "source": "https://github.com/returntocorp/semgrep",
+      "description": "Static analysis engine for detecting vulnerabilities for many languages",
+      "language": "Ocaml",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "SonarQube",
+      "website": "http://www.sonarqube.org/",
+      "source": "https://github.com/SonarSource/sonarqube",
+      "description": "Automatic code review tool to detect bugs, vulnerabilities; continuous code inspection automated with static code analysis rules",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "StaCoAn",
+      "source": "https://github.com/vincentcox/StaCoAn",
+      "description": "Mobile applications static code analysis tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SUPER",
+      "source": "https://github.com/SUPERAndroidAnalyzer/super",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Tfsec",
+      "website": "https://aquasecurity.github.io/tfsec/latest/",
+      "source": "https://github.com/aquasecurity/tfsec",
+      "description": "Misconfiguration scanner for terraform code",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "Trivy",
+      "website": "https://aquasecurity.github.io/trivy/",
+      "source": "https://github.com/aquasecurity/trivy",
+      "description": "Vulnerability and misconfiguration scanner for containers (OS and language-specific packages)",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "weggli",
+      "source": "https://github.com/weggli-rs/weggli",
+      "description": "Semantic search tool for C and C++ designed to help security researchers identify interesting functionality in large codebases",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SAST"
+    },
+    {
+      "name": "wpBullet",
+      "source": "https://github.com/webarx-security/wpbullet",
+      "description": "Static code analysis for WordPress Plugins and Themes (and PHP)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

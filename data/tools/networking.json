@@ -1,0 +1,1584 @@
+{
+  "tools": [
+    {
+      "name": "ActiveDirectoryEnumeration",
+      "source": "https://github.com/CasperGN/ActiveDirectoryEnumeration",
+      "description": "Enumerate AD through LDAP with a collection of helpfull scripts being bundled: ASREPRoasting, Kerberoasting, dump AD as BloodHound JSON files, searching GPOs in SYSVOL for cpassword and decrypting, run without creds",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Adalanche",
+      "source": "https://github.com/lkarlslund/Adalanche",
+      "description": "Active Directory ACL visualizer and explorer; similar to BloodHound",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows"
+    },
+    {
+      "name": "AD Assault",
+      "website": "https://noraj.github.io/ADAssault/",
+      "source": "https://github.com/noraj/adassault",
+      "description": "Active Directory environments pentest; complementary to existing tools like NetExec",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "adassault"
+    },
+    {
+      "name": "AD Strider",
+      "source": "https://github.com/PatchRequest/AD-Strider",
+      "description": "Automate the misconfigurations detectection in an Active Directory by analyzing data from Bloodhound",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows"
+    },
+    {
+      "name": "ad-ldap-enum",
+      "source": "https://github.com/CroweCybersecurity/ad-ldap-enum",
+      "description": "LDAP based Active Directory user and group enumeration tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ADCSKiller",
+      "source": "https://github.com/grimlockx/ADCSKiller",
+      "description": "ADCS exploitation automation by weaponizing Certipy and Coercer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ADenum",
+      "source": "https://github.com/SecuProject/ADenum",
+      "description": "Find misconfiguration through the LDAP protocol and exploit some weaknesses with kerberos",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "active directory, windows",
+      "blackarch": "adenum"
+    },
+    {
+      "name": "adfsbrute",
+      "source": "https://github.com/ricardojoserf/adfsbrute",
+      "description": "Test credentials against Active Directory Federation Services (ADFS), allowing password spraying or bruteforce attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "adidnsdump",
+      "source": "https://github.com/dirkjanm/adidnsdump",
+      "description": "Enumeration and exporting of all DNS records in ADIDNS domain or forest DNS zones",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "active directory, windows",
+      "blackarch": "adidnsdump"
+    },
+    {
+      "name": "ADMiner",
+      "source": "https://github.com/Mazars-Tech/AD_Miner",
+      "description": "Active Directory audit tool that extract data from Bloodhound to uncover security weaknesses and generate an HTML report",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ad-miner"
+    },
+    {
+      "name": "ADRecon",
+      "source": "https://github.com/adrecon/ADRecon",
+      "description": "Gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "archtorify",
+      "source": "https://github.com/brainfucksec/archtorify",
+      "description": "Script for Arch Linux which use iptables settings to create a transparent proxy through Tor Network",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Arecibo",
+      "source": "https://github.com/TarlogicSecurity/Arecibo",
+      "description": "Endpoint for Out-of-Band Exfiltration (DNS & HTTP)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "arp-scan",
+      "source": "https://github.com/royhills/arp-scan",
+      "description": "Discover hosts on your network using ARP requests",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "arp-scan"
+    },
+    {
+      "name": "ASNmap",
+      "source": "https://github.com/projectdiscovery/asnmap",
+      "description": "CLI and Library for quickly mapping organization network ranges using ASN information",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "beanshooter",
+      "source": "https://github.com/qtc-de/beanshooter",
+      "description": "JMX enumeration and attacking; helps to identify common vulnerabilities on JMX endpoints",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "bettercap",
+      "website": "http://www.bettercap.org/",
+      "source": "https://github.com/bettercap/bettercap",
+      "description": "MITM framework",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "bettercap web UI",
+      "website": "http://www.bettercap.org/",
+      "source": "https://github.com/bettercap/ui",
+      "description": "Web UI for bettercap",
+      "language": "TypeScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BloodHound CLI",
+      "source": "https://github.com/SpecterOps/bloodhound-cli",
+      "description": "Manage BloodHound through the command-line",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "bloodhound-cli"
+    },
+    {
+      "name": "BloodHound CE",
+      "source": "https://github.com/SpecterOps/BloodHound",
+      "description": "BloodHound v5; uses graph theory to reveal the hidden relationships within an Active Directory or Azure environment, quickly identify highly complex attack paths",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BloodHound Legacy",
+      "source": "https://github.com/SpecterOps/BloodHound-Legacy",
+      "description": "BloodHound v4; uses graph theory to reveal the hidden relationships within an Active Directory or Azure environment, quickly identify highly complex attack paths",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "bloodhound"
+    },
+    {
+      "name": "BloodHound.py",
+      "source": "https://github.com/dirkjanm/BloodHound.py",
+      "description": "Data collector for BloodHound Legacy (v4), based on Impacket",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "bloodhound-python"
+    },
+    {
+      "name": "BloodHound.py CE",
+      "source": "https://github.com/dirkjanm/BloodHound.py/tree/bloodhound-ce",
+      "description": "Data collector for BloodHound CE (v5), based on Impacket",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "bloodhound-ce-python"
+    },
+    {
+      "name": "bloodyAD",
+      "source": "https://github.com/CravateRouge/bloodyAD",
+      "description": "Active Directory privilege escalation framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "boofuzz",
+      "source": "https://github.com/jtpereyda/boofuzz",
+      "description": "Network protocol fuzzing framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Boomerang",
+      "source": "https://github.com/paranoidninja/Boomerang",
+      "description": "Client/Server HTTP pivoting tool",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "bore",
+      "source": "https://github.com/ekzhang/bore",
+      "description": "Creates a TCP tunnel; exposing local ports to a remote server, bypassing standard NAT connection firewalls",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "bore"
+    },
+    {
+      "name": "BruteSpray",
+      "source": "https://github.com/x90skysn3k/brutespray",
+      "description": "Takes nmap GNMAP/XML output or newline seperated JSONS and automatically brute-forces services with default credentials using Medusa",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BruteX",
+      "source": "https://github.com/1N3/BruteX",
+      "description": "Tool using nmap and hydra to automatically bruteforce network service accounts",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Carnivore",
+      "website": "https://research.nccgroup.com/2020/12/03/tool-release-carnivore-microsoft-external-assessment-tool/",
+      "source": "https://github.com/nccgroup/Carnivore",
+      "description": "Assessment of on-premises Microsoft servers such as ADFS, Skype, Exchange, and RDWeb",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CapAnalysis",
+      "website": "http://www.capanalysis.net",
+      "source": "https://sourceforge.net/projects/capanalysis/",
+      "description": "PCAP analyzer",
+      "language": "C",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Cerbrutus",
+      "source": "https://github.com/Cerbrutus-BruteForcer/cerbrutus",
+      "description": "Network services credentials brute-forcer: SSH, FTP",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Certipy",
+      "source": "https://github.com/ly4k/Certipy",
+      "description": "Active Directory Certificate Services enumeration and exploitation",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "ADCS",
+      "blackarch": "certipy"
+    },
+    {
+      "name": "certsync",
+      "source": "https://github.com/zblurx/certsync",
+      "description": "Dump NTDS with golden certificates and UnPAC the hash",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "LDAP, ADCS"
+    },
+    {
+      "name": "chisel",
+      "source": "https://github.com/jpillora/chisel",
+      "description": "Fast TCP tunneling over HTTP secured by SSH",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CloudShark",
+      "website": "https://www.cloudshark.org/",
+      "description": "PCAP analyzer",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "Coercer",
+      "source": "https://github.com/p0dalirius/Coercer",
+      "description": "Coerce a Windows server to authenticate on an arbitrary machine through 12 methods",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SMB, RPC, UNC",
+      "blackarch": "coercer"
+    },
+    {
+      "name": "ConPass",
+      "source": "https://github.com/login-securite/conpass",
+      "description": "Password spraying in Active Directory checking the default domain password policy as well as PSO and the badpwdcount LDAP attribute to avoid account locking",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CrackMapExec",
+      "source": "https://github.com/byt3bl33d3r/CrackMapExec",
+      "description": "Post-exploitation tool to assess Active Directory networks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "crackmapexec"
+    },
+    {
+      "name": "DC Detector",
+      "source": "https://github.com/noraj/DCDetector",
+      "description": "Spot all domain controllers in a Microsoft Active Directory environment, find computer name, FQDN, and IP address(es) of all DCs",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows, DNS"
+    },
+    {
+      "name": "DnsFookup",
+      "source": "https://github.com/makuga01/dnsFookup",
+      "description": "Create DNS request collector and inspector",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DNS Rebinding Tool",
+      "website": "http://dnsrebindtool.43z.one/",
+      "source": "https://github.com/h43z/dns-rebinding-tool",
+      "description": "Toolkit to test further DNS rebinding attacks ",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "dploot",
+      "source": "https://github.com/zblurx/dploot",
+      "description": "DPAPI looting remotely and locally",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "python-dploot"
+    },
+    {
+      "name": "Espionage",
+      "source": "https://github.com/josh0xA/Espionage",
+      "description": "A Linux packet sniffing suite for automated MiTM attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Evil-WinRM",
+      "source": "https://github.com/Hackplayers/evil-winrm",
+      "description": "Enhanced WinRM shell",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "evil-winrm"
+    },
+    {
+      "name": "evilginx2",
+      "source": "https://github.com/kgretzky/evilginx2",
+      "description": "Man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Garfield",
+      "source": "https://github.com/torque59/Garfield",
+      "description": "Attack framework for distributed systems",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Girsh",
+      "source": "https://github.com/nodauf/Girsh",
+      "description": "Detect the OS and execute the correct commands to upgrade it to a full interactive reverse shell",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Go-RouterSocks",
+      "source": "https://github.com/nodauf/Go-RouterSocks",
+      "description": "Socks proxy router to handle multi-clients on the same port",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "pivoting"
+    },
+    {
+      "name": "go-secdump",
+      "source": "https://github.com/jfjallid/go-secdump",
+      "description": "Remotely dump secrets from the Windows registry (SAM hive, LSA secrets, SECURITY hive)",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GoldenCopy",
+      "source": "https://github.com/Dramelac/GoldenCopy",
+      "description": "Copy the properties and groups of a user from neo4j (bloodhound) to create an identical golden ticket",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "active directory"
+    },
+    {
+      "name": "GoMapEnum",
+      "source": "https://github.com/nodauf/GoMapEnum",
+      "description": "User enumeration and password bruteforce on Azure, ADFS, OWA, O365 and gather emails on Linkedin",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "goddi",
+      "source": "https://github.com/NetSPI/goddi",
+      "description": "Active Directory domain information dumper",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "goddi"
+    },
+    {
+      "name": "graftcp",
+      "source": "https://github.com/hmgle/graftcp",
+      "description": "Redirects a program's TCP, UDP, and DNS traffic to SOCKS5 or HTTP proxies by tracing socket syscalls",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Group3r",
+      "source": "https://github.com/Group3r/Group3r",
+      "description": "Enumerate relevant settings in AD Group Policy, identify exploitable misconfigurations",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "GPO, DC, SYSVOL, ACL"
+    },
+    {
+      "name": "HASSH",
+      "source": "https://github.com/salesforce/hassh",
+      "description": "Network fingerprinting standard which can be used to identify specific client and server SSH implementations",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HEKATOMB",
+      "source": "https://github.com/Processus-Thief/HEKATOMB",
+      "description": "Retrieve all computers and users informations from AD LDAP; download all DPAPI blob of all users from all computers and uses Domain backup keys to decrypt them",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HellRaiser",
+      "source": "https://github.com/m0nad/HellRaiser",
+      "description": "Scan with nmap to correlate CPE's found with cve-search to enumerate vulnerabilities",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "hellraiser"
+    },
+    {
+      "name": "HivExcavator",
+      "source": "https://github.com/noraj/hivexcavator",
+      "description": "Extracting the contents of Microsoft Windows Registry (hive) and display it as a colorful tree but mainly focused on parsing BCD files to extract WIM files path for PXE attacks",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "hoaxshell",
+      "source": "https://github.com/t3l3machus/hoaxshell",
+      "description": "Windows reverse shell payload generator and handler that abuses the http(s) protocol to establish a beacon-like reverse shell",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HTTPRebind",
+      "source": "https://github.com/daeken/httprebind",
+      "description": "Automatic DNS rebinding-based SSRF attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hydra",
+      "source": "https://github.com/vanhauser-thc/thc-hydra",
+      "description": "Network login cracker",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "hydra"
+    },
+    {
+      "name": "IPSpinner",
+      "source": "https://github.com/synacktiv/IPSpinner",
+      "description": "Local proxy that redirects requests through external services to rotate source IP addresses",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Ica2Tcp",
+      "source": "https://github.com/synacktiv/ica2tcp",
+      "description": "SOCKS proxy for Citrix",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ImproHound",
+      "source": "https://github.com/improsec/ImproHound",
+      "description": "Identify the attack paths in BloodHound breaking AD tiering",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Jaqen",
+      "source": "https://github.com/linkedin/jaqen",
+      "description": "Abstracts away the complex steps required to perform a DNS rebind and exposes a HTML5 Fetch interface which transparently triggers a DNS rebind",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "kalitorify",
+      "source": "https://github.com/brainfucksec/kalitorify",
+      "description": "Script for Kali Linux which use iptables settings to create a transparent proxy through Tor Network",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kerbrute",
+      "source": "https://github.com/ropnop/kerbrute",
+      "description": "Bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows",
+      "blackarch": "kerbrute"
+    },
+    {
+      "name": "KRBJack",
+      "source": "https://github.com/almandin/krbjack",
+      "description": "DNS dynamic update abuse in ADIDNS via DSPROPERTY_ZONE_ALLOW_UPDATE set to ZONE_UPDATE_UNSECURE combined with MitM attack using Kerberos AP-REQ hijacking",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "active directory, windows"
+    },
+    {
+      "name": "Krbrelayx",
+      "website": "https://dirkjanm.io/krbrelayx-unconstrained-delegation-abuse-toolkit/",
+      "source": "https://github.com/dirkjanm/krbrelayx",
+      "description": "Toolkit for abusing unconstrained delegation",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "kerberos, DNS, LDAP, RPC, SpoolService",
+      "blackarch": "krbrelayx"
+    },
+    {
+      "name": "KubeHound",
+      "source": "https://github.com/DataDog/KubeHound",
+      "description": "Kubernetes attack graph tool allowing automated calculation of attack paths between assets in a cluster",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "LDAPDomainDump",
+      "source": "https://github.com/dirkjanm/ldapdomaindump",
+      "description": "Active Directory information dumper via LDAP",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows",
+      "blackarch": "ldapdomaindump"
+    },
+    {
+      "name": "LDAPmonitor",
+      "source": "https://github.com/p0dalirius/LDAPmonitor",
+      "description": "Monitor creation, deletion and changes to LDAP objects live during pentest or system administration",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ldeep",
+      "source": "https://github.com/franc-pentest/ldeep",
+      "description": "Active Directory LDAP enumeration utility",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ldeep"
+    },
+    {
+      "name": "Legba",
+      "website": "https://legba.evilsocket.net/",
+      "source": "https://github.com/evilsocket/legba",
+      "description": "Multiprotocol credentials bruteforcer, password sprayer and enumerator",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "legba"
+    },
+    {
+      "name": "Ligolo",
+      "source": "https://github.com/sysdream/ligolo",
+      "description": "Pivot / reverse tunneling tool with SOCKS5 and TCP tunnel support",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Ligolo-ng",
+      "source": "https://github.com/nicocha30/ligolo-ng",
+      "description": "Pivoting via TCP/TLS reverse tunneling with TUN interface",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ligolo-ng"
+    },
+    {
+      "name": "linWinPwn",
+      "source": "https://github.com/lefayjey/linWinPwn",
+      "description": "Script that automates a number of Active Directory enumeration and vulnerability checks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Locksmith",
+      "source": "https://github.com/TrimarcJake/Locksmith",
+      "description": "Find and fix common misconfigurations in AD CS",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "lsassy",
+      "source": "https://github.com/Hackndo/lsassy",
+      "description": "CLI tool and library to extract credentials from lsass remotely",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "python-lsassy",
+      "keywords": "windows, mimikatz, WMI, kerberos"
+    },
+    {
+      "name": "Mail.Rip V2",
+      "source": "https://github.com/DrPython3/MailRipV2",
+      "description": "SMTP credentials bruteforcer / checker",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "SOCKS4, SOCKS5"
+    },
+    {
+      "name": "Malifar",
+      "source": "https://github.com/arisada/malifar",
+      "description": "GPU-accelerated NSEC3 zone dumper",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DNS, DNSSEC"
+    },
+    {
+      "name": "MAN-SPIDER",
+      "source": "https://github.com/blacklanternsecurity/MANSPIDER",
+      "description": "Crawl SMB shares for juicy information; supports file content searching and regex",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "manspider"
+    },
+    {
+      "name": "Masscan",
+      "source": "https://github.com/robertdavidgraham/masscan",
+      "description": "Port scanner for massive networks",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "masscan"
+    },
+    {
+      "name": "Medusa",
+      "website": "http://foofus.net/goons/jmk/medusa/medusa.html",
+      "source": "https://github.com/jmk-foofus/medusa",
+      "description": "Network login cracker",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "medusa"
+    },
+    {
+      "name": "Medusa-gui",
+      "source": "https://github.com/Tak31337/medusa-gui",
+      "description": "GUI for Medusa",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "mitm6",
+      "source": "https://github.com/dirkjanm/mitm6",
+      "description": "DNS poisoning via DHCPv6 MitM",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Windows",
+      "blackarch": "mitm6"
+    },
+    {
+      "name": "modifyCertTemplate",
+      "source": "https://github.com/fortalice/modifyCertTemplate",
+      "description": "Aid operators in modifying ADCS certificate templates so that a created vulnerable state can be leveraged for privilege escalation",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "ESC4, ACL, ACE",
+      "blackarch": "modifycerttemplate"
+    },
+    {
+      "name": "MSSQLRelay",
+      "website": "https://blog.compass-security.com/2023/10/relaying-ntlm-to-mssql/",
+      "source": "https://github.com/CompassSecurity/mssqlrelay",
+      "description": "MSSQL relay audit and abuse",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "naabu",
+      "website": "https://projectdiscovery.io",
+      "source": "https://github.com/projectdiscovery/naabu",
+      "description": "Port scanner with a focus on reliability and simplicity",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "naabu"
+    },
+    {
+      "name": "ncat",
+      "website": "https://nmap.org/ncat/",
+      "source": "https://github.com/nmap/nmap/tree/master/ncat",
+      "description": "Improved reimplementation of Netcat by nmap team; Supports TCP and UDP, IPv4 and IPv6, SSL, proxy (HTTP and SOCKS4)",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "nmap",
+      "keywords": "reverse shell, bind shell, listener"
+    },
+    {
+      "name": "Ncrack",
+      "website": "https://nmap.org/ncrack/",
+      "source": "https://github.com/nmap/ncrack",
+      "description": "Reliable and adaptative network login cracker supporting a large number of protocols",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ncrack"
+    },
+    {
+      "name": "nemesis",
+      "website": "http://troglobit.com/projects/nemesis/",
+      "source": "https://github.com/troglobit/nemesis",
+      "description": "Packet manipulation CLI tool; craft and inject packets of several protocols",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "NetExec",
+      "website": "https://netexec.wiki/",
+      "source": "https://github.com/Pennyw0rth/NetExec",
+      "description": "Windows / Active Directory environments pentest; fork of CrackMapExec",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "netexec"
+    },
+    {
+      "name": "Netfort Free Cloud Based PCAP Analysis",
+      "website": "https://www.netfort.com/cloud-based-pcap-analysis/",
+      "description": "PCAP analyzer; needs registration",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "NetworkMiner",
+      "website": "http://www.netresec.com/?page=NetworkMiner",
+      "description": "Network sniffer/packet capturing tool",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ngocok",
+      "source": "https://github.com/dwisiswant0/ngocok",
+      "description": "ngrok collaborator link",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Nipe",
+      "source": "https://github.com/GouveaHeitor/nipe",
+      "description": "Script to make TOR as default gateway",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Nmap",
+      "website": "https://nmap.org/",
+      "source": "https://github.com/nmap/nmap",
+      "description": "Tool for network discovery and security auditing",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "nmap"
+    },
+    {
+      "name": "nmap-parse-output",
+      "source": "https://github.com/ernw/nmap-parse-output",
+      "description": "Converts / manipulates / extracts data from a nmap scan output",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "nmap-parse-output"
+    },
+    {
+      "name": "NMapGUI",
+      "source": "https://github.com/danicuestasuarez/NMapGUI",
+      "description": "Advanced GUI for Nmap",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Nozzlr",
+      "source": "https://github.com/intrd/nozzlr",
+      "description": "Multithreaded and modular bruteforce framework with network templates",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "nsec3map",
+      "source": "https://github.com/flotwig/zone-walker",
+      "description": "NSEC/NSEC3 zone dumper",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DNS, DNSSEC",
+      "blackarch": "nsec3map"
+    },
+    {
+      "name": "ntlm_theft",
+      "source": "https://github.com/Greenwolf/ntlm_theft",
+      "description": "Generate multiple types of NTLMv2 hash theft files",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ntlm-theft",
+      "keywords": "phishing"
+    },
+    {
+      "name": "onesixtyone",
+      "source": "https://github.com/trailofbits/onesixtyone",
+      "description": "SNMP scanner",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "onesixtyone"
+    },
+    {
+      "name": "OOB-Server",
+      "source": "https://github.com/JuxhinDB/OOB-Server",
+      "description": "Bind9 DNS server for pentesters to use for Out-of-Band vulnerabilities",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "owabrute",
+      "source": "https://github.com/p0dalirius/owabrute",
+      "description": "Hydra wrapper for bruteforcing Microsoft Outlook Web Application",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "OWA"
+    },
+    {
+      "name": "PacketFu",
+      "source": "https://github.com/packetfu/packetfu",
+      "description": "Packet manipulation library; forge, send, decode, capture packets of a wide number of protocols",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PacketTotal",
+      "website": "https://packettotal.com/",
+      "description": "PCAP analyzer; using Bro (Zeek), Suricata and Elasticsearch",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "PacketWhisper",
+      "source": "https://github.com/TryCatchHCF/PacketWhisper",
+      "description": "Stealthy Data exfiltration via DNS, without the need for attacker-controlled Name Servers or domain",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PassTheCert",
+      "source": "https://github.com/AlmondOffSec/PassTheCert",
+      "description": "Authenticate LDAP with Schannel to perform attacks, useful when DCs disabled PKINIT authentication",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Patator",
+      "source": "https://github.com/lanjelot/patator",
+      "description": "Multi-protocol bruteforce tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "patator"
+    },
+    {
+      "name": "PKINIT tools",
+      "source": "https://github.com/dirkjanm/PKINITtools",
+      "description": "Kerberos PKINIT and relaying to AD CS",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows"
+    },
+    {
+      "name": "polarbearscan",
+      "source": "https://github.com/gvb84/pbscan",
+      "description": "Port scanner and banner grabber",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PolarDNS",
+      "source": "https://github.com/oryxlabs/PolarDNS",
+      "description": "Specialized authoritative DNS server suitable for penetration testing and vulnerability research",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Polymorph",
+      "source": "https://github.com/shramos/polymorph",
+      "description": "Real-time network packet manipulation framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PowerHuntShares",
+      "source": "https://github.com/NetSPI/PowerHuntShares",
+      "description": "Audit script to inventory, analyze, and report excessive privileges assigned to SMB shares on Active Directory domain joined computers",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pre2k",
+      "source": "https://github.com/garrettfoster13/pre2k",
+      "description": "Query for the existence of pre-windows 2000 computer objects",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "pre2k"
+    },
+    {
+      "name": "PSPKIAudit",
+      "source": "https://github.com/GhostPack/PSPKIAudit",
+      "description": "AD CS auditing based on the PSPKI toolkit",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Prox-Ez",
+      "source": "https://github.com/synacktiv/Prox-Ez",
+      "description": "HTTP proxy that handles HTTP authentications on your behalf, including NTLM EPA, Kerberos, pass-the-hash, overpass-the-hash and pass-the-ticket",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "pty4all",
+      "source": "https://github.com/laluka/pty4all",
+      "description": "Persistent multi reverse shell handler",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "PTY"
+    },
+    {
+      "name": "pwncat",
+      "website": "https://pwncat.org/",
+      "source": "https://github.com/cytopia/pwncat",
+      "description": "Sophisticated bind and reverse shell handler with many features as well as a drop-in replacement or compatible complement to netcat, ncat or socat",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "pwncat"
+    },
+    {
+      "name": "pwncat-caleb",
+      "website": "https://pwncat.readthedocs.io/",
+      "source": "https://github.com/calebstewart/pwncat",
+      "description": "Fancy reverse and bind shell handler, can perform automated actions on the remote host including enumeration, implant installation and privilege escalation; attempt to spawn a pseudoterminal (pty) for a full interactive session",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "pwncat-caleb"
+    },
+    {
+      "name": "pyGPOAbuse",
+      "source": "https://github.com/Hackndo/pyGPOAbuse",
+      "description": "Partial python implementation of SharpGPOAbuse; modify an existing GPO by creating an immediate scheduled task as SYSTEM on the remote computer for computer GPO or logged in user for user GPO",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "active directory, windows"
+    },
+    {
+      "name": "pywerview",
+      "source": "https://github.com/the-useless-one/pywerview",
+      "description": "A partial Python rewriting of PowerSploit's PowerView",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "LDAP",
+      "blackarch": "python-pywerview"
+    },
+    {
+      "name": "PyWhisker",
+      "source": "https://github.com/ShutdownRepo/pywhisker",
+      "description": "Persistent and stealthy backdooring of user and computer Active Directory objects",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "msDS, windows, domain controller, AD CS, NTLM, Kerberos"
+    },
+    {
+      "name": "PyWSUS",
+      "website": "https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/",
+      "source": "https://github.com/GoSecure/pywsus",
+      "description": "WSUS server designed to send malicious responses to clients",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "rbndr",
+      "source": "https://github.com/taviso/rbndr",
+      "description": "Server for testing software against DNS rebinding vulnerabilities",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "rdp-sec-check",
+      "source": "https://github.com/portcullislabs/rdp-sec-check",
+      "description": "Script to enumerate security settings of an RDP Service",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "rdp2tcp",
+      "source": "https://github.com/V-E-O/rdp2tcp",
+      "description": "TCP tunneling through remote desktop connection (RDP)",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "reGeorg",
+      "source": "https://github.com/sensepost/reGeorg",
+      "description": "SOCKS proxies through the DMZ for pivoting",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Responder",
+      "source": "https://github.com/SpiderLabs/Responder",
+      "description": "LLMNR, NBT-NS and MDNS poisoner to intercept authentication requests/answers",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Rebind",
+      "source": "https://code.google.com/archive/p/rebind/",
+      "description": "Implements multiple A record DNS rebinding attack",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RMIScout",
+      "website": "https://bishopfox.com/tools/rmiscout",
+      "source": "https://github.com/BishopFox/rmiscout",
+      "description": "Enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities through wordlist and bruteforce strategies",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "remote-method-guesser",
+      "source": "https://github.com/qtc-de/remote-method-guesser",
+      "description": "Java RMI vulnerability scanner; identify and verify common security vulnerabilities on Java RMI endpoints",
+      "language": "Java",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "remote-method-guesser"
+    },
+    {
+      "name": "RouterSploit",
+      "source": "https://github.com/threat9/routersploit",
+      "description": "Exploitation framework for embedded devices: exploits, default credentials, scanners, payloads",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "routersploit"
+    },
+    {
+      "name": "Rubeus",
+      "source": "https://github.com/GhostPack/Rubeus",
+      "description": "Kerberos interaction and abuses",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "TGT, PCKS12, ticket, AS-REQ, S4U, LDAP, golden, silver, diamond, kerberoasting, AS-REP roasting"
+    },
+    {
+      "name": "ruby-nmap",
+      "source": "https://github.com/sophsec/ruby-nmap",
+      "description": "Library for nmap, allows automating nmap and parsing nmap XML files",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ruby-ruby-nmap"
+    },
+    {
+      "name": "Rustcat",
+      "website": "https://github.com/robiot/rustcat/wiki/Installation-Guide",
+      "source": "https://github.com/robiot/rustcat",
+      "description": "Port and reverse shell listener; less features than ncat, pwncat, pwncat-caleb but has command history",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "rustcat"
+    },
+    {
+      "name": "RustHound",
+      "source": "https://github.com/NH-RED-TEAM/RustHound",
+      "description": "Active Directory data collector for BloodHound v4",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "rusthound"
+    },
+    {
+      "name": "RustHound-CE",
+      "source": "https://github.com/g0h4n/RustHound-CE",
+      "description": "Active Directory data collector for BloodHound v5",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "sandmap",
+      "website": "https://github.com/trimstray/sandmap/wiki",
+      "source": "https://github.com/trimstray/sandmap",
+      "description": "Metasploit-like CLI interface for Nmap Script Engine (NSE)",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "sandmap"
+    },
+    {
+      "name": "Scapy",
+      "website": "https://scapy.net/",
+      "source": "https://github.com/secdev/scapy/",
+      "description": "Packet manipulation library; forge, send, decode, capture packets of a wide number of protocols",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "scapy"
+    },
+    {
+      "name": "SELKS",
+      "website": "https://www.stamus-networks.com/selks",
+      "source": "https://github.com/StamusNetworks/SELKS",
+      "description": "IDS / IPS / NSM Debian distribution based on Suricata",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Seth",
+      "source": "https://github.com/SySS-Research/Seth",
+      "description": "RDP MitM tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "seth"
+    },
+    {
+      "name": "SharpHound",
+      "website": "https://bloodhound.specterops.io/collect-data/ce-collection/sharphound",
+      "source": "https://github.com/SpecterOps/SharpHound",
+      "description": "Data collector for BloodHound v5",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Shovel",
+      "source": "https://github.com/ANSSI-FR/shovel",
+      "description": "Traffic analyser; web interface to explore Suricata EVE outputs",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SilentHound",
+      "source": "https://github.com/layer8secure/SilentHound",
+      "description": "Quietly enumerates an Active Directory Domain via LDAP parsing users, admins, groups",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows"
+    },
+    {
+      "name": "SiLK",
+      "website": "https://tools.netsa.cert.org/silk/index.html",
+      "description": "System for Internet-Level Knowledge; collection of traffic analysis tools developed to facilitate security analysis of large networks",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "silk"
+    },
+    {
+      "name": "Singularity",
+      "source": "https://github.com/nccgroup/singularity",
+      "description": "DNS rebinding attack framework",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "sJET",
+      "source": "https://github.com/siberas/sjet",
+      "description": "JMX Exploitation Toolkit",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "sjet"
+    },
+    {
+      "name": "smbclient-ng",
+      "source": "https://github.com/p0dalirius/smbclient-ng",
+      "description": "SMB shares interaction",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Windows, Active Directory"
+    },
+    {
+      "name": "Snaffler",
+      "source": "https://github.com/SnaffCon/Snaffler",
+      "description": "Find credentials and valuable information from windows active directory environments (shares, files)",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SNMP Brute",
+      "source": "https://github.com/SECFORCE/SNMP-Brute",
+      "description": "SNMP brute force, enumeration, CISCO config downloader and password cracking script",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "snmp-brute"
+    },
+    {
+      "name": "snmpbw.pl",
+      "source": "https://github.com/dheiland-r7/snmp",
+      "description": "Multithreaded script for bulk walking targeted host systems for SNMP data",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Snort",
+      "website": "https://www.snort.org/",
+      "source": "https://github.com/snort3/snort3",
+      "description": "Intrusion detection system that monitors network traffic for suspicious activities and threats",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "snort",
+      "keywords": "IDS"
+    },
+    {
+      "name": "SprayHound",
+      "source": "https://github.com/Hackndo/sprayhound",
+      "description": "Password spraying in Active Directory checking the default domain password policy and the badpwdcount LDAP attribute to avoid account locking, set pwned users as owned in Bloodhound and detect path to Domain Admins",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "sprayhound"
+    },
+    {
+      "name": "ssh-audit",
+      "source": "https://github.com/jtesta/ssh-audit",
+      "description": "SSH scanner that detects protocol, version, grab banner, recognize software and operating system, output algorithm information and recommendations",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "ssh-audit"
+    },
+    {
+      "name": "sshame",
+      "source": "https://github.com/HynekPetrak/sshame",
+      "description": "Brute force SSH public-key authentication interactively",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sshimpanzee",
+      "website": "https://blog.lexfo.fr/sshimpanzee.html",
+      "source": "https://github.com/lexfo/sshimpanzee",
+      "description": "Builds a static reverse SSH server for pivoting; supports HTTP and SOCKS5 proxies, DNS and ICMP tunnelling, HTTP encapsulation",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Stunner",
+      "source": "https://github.com/firefart/stunner",
+      "description": "Test and exploit STUN, TURN and TURN over TCP servers",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "stunner"
+    },
+    {
+      "name": "Suricata",
+      "website": "https://suricata.io/",
+      "source": "https://github.com/OISF/suricata",
+      "description": "Intrusion detection system and intrusion prevention system for network analysis and threat detection",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "suricata",
+      "keywords": "IDS, IPS"
+    },
+    {
+      "name": "Suricata Language Server",
+      "website": "https://www.stamus-networks.com/blog/suricata-language-server",
+      "source": "https://github.com/StamusNetworks/suricata-language-server",
+      "description": "Implementation of the Language Server Protocol for Suricata signatures; real-time rule syntax checking and auto-completion",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Tsunami",
+      "source": "https://github.com/google/tsunami-security-scanner",
+      "description": "Network security scanner with an extensible plugin system",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Turner",
+      "source": "https://github.com/staaldraad/turner",
+      "description": "Tunnels HTTP over a permissive/open TURN server; supports HTTP and SOCKS5 proxy",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "STUN",
+      "blackarch": "turner"
+    },
+    {
+      "name": "WebMap v1",
+      "source": "https://github.com/PunitTailor55/WebMap",
+      "description": "A web dashboard for nmap XML report",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "WebMap v2",
+      "source": "https://github.com/Hamza-Megahed/WebMap",
+      "description": "A web dashboard for nmap XML report",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Whonow",
+      "source": "https://github.com/brannondorsey/whonow",
+      "description": "DNS Server for executing DNS Rebinding attacks",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "windapsearch",
+      "source": "https://github.com/ropnop/windapsearch",
+      "description": "Script to enumerate users, groups and computers from a Windows domain through LDAP queries",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "windapsearch"
+    },
+    {
+      "name": "Wireshark",
+      "website": "https://www.wireshark.org/",
+      "source": "https://code.wireshark.org/review/gitweb?p=wireshark.git",
+      "description": "Network protocol analyzer",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "wireshark-qt"
+    },
+    {
+      "name": "Wirego",
+      "source": "https://github.com/quarkslab/wirego",
+      "description": "Wireshark plugin framework based on ZMQ",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "WireSocks",
+      "source": "https://github.com/sensepost/wiresocks",
+      "description": "WireGuard socks proxy for pentest pivoting",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Whisker",
+      "source": "https://github.com/eladshamir/Whisker",
+      "description": "Take over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding Shadow Credentials to the target account",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "wmiexec-Pro",
+      "source": "https://github.com/XiaoliChan/wmiexec-Pro",
+      "description": "Perform different ways of command execution via WMI protocol (port 135) for AV evasion",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AMSI, Windows, VBS"
+    },
+    {
+      "name": "XFLTReaT",
+      "source": "https://github.com/earthquake/XFLTReaT",
+      "description": "Tunnelling framework; supports TCP, UDP, ICMP, SOCKS, HTTP, SCTP, WebSocket, RDP",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "xfltreat"
+    },
+    {
+      "name": "Xprobe2",
+      "source": "https://github.com/binarytrails/xprobe2",
+      "description": "Remote active operating system fingerprinting",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "xprobe2"
+    },
+    {
+      "name": "yersinia",
+      "source": "https://github.com/tomac/yersinia",
+      "description": "Framework for layer 2 attacks",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "yersinia"
+    },
+    {
+      "name": "Zeek",
+      "website": "https://zeek.org/",
+      "source": "https://github.com/zeek/zeek",
+      "description": "Intrusion detection system for network traffic analysis and security monitoring; formerly Bro",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "",
+      "keywords": "IDS"
+    },
+    {
+      "name": "Zenmap",
+      "website": "https://nmap.org/zenmap/",
+      "source": "https://github.com/nmap/nmap/tree/master/zenmap",
+      "description": "GUI for Nmap",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Zmap",
+      "website": "https://zmap.io/",
+      "source": "https://github.com/zmap/zmap",
+      "description": "Collection of tools to scan and study massive networks",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "zmap"
+    },
+    {
+      "name": "zone-walker",
+      "source": "https://github.com/flotwig/zone-walker",
+      "description": "NSEC zone dumper",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DNS, DNSSEC"
+    }
+  ]
+}

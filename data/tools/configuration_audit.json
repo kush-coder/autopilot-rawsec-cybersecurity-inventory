@@ -1,0 +1,106 @@
+{
+  "tools": [
+    {
+      "name": "CIS CAT Lite",
+      "website": "https://learn.cisecurity.org/cis-cat-lite",
+      "description": "Asses systems against CIS Benchmarks",
+      "price": "Free",
+      "online": "False",
+      "keywords": "compliance"
+    },
+    {
+      "name": "CIS CAT Pro",
+      "website": "https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro",
+      "description": "Asses systems against CIS Benchmarks",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "compliance"
+    },
+    {
+      "name": "Iniscan",
+      "source": "https://github.com/psecio/iniscan",
+      "description": "php.ini scanner for security best practices",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Local PHP Security Checker",
+      "source": "https://github.com/fabpot/local-php-security-checker",
+      "description": "CLI tool that checks if your PHP application depends on PHP packages with known security vulnerabilities",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Lynis",
+      "website": "https://cisofy.com/lynis/",
+      "source": "https://github.com/CISOfy/Lynis",
+      "description": "Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "lynis"
+    },
+    {
+      "name": "Master librarian",
+      "source": "https://github.com/CoolerVoid/master_librarian",
+      "description": "Audit Unix/*BSD/Linux system libraries to find public security vulnerabilities",
+      "language": "Python",
+      "price": "Free",
+      "online":"False"
+    },
+    {
+      "name": "Nipper Studio",
+      "website": "https://www.titania.com/products/nipper",
+      "description": "Tool that parse router, switch, firewall configuration to discover vulnerabilities",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Nipper-ng",
+      "source": "https://github.com/arpitn30/nipper-ng",
+      "description": "Tool that parse router, switch, firewall configuration to discover vulnerabilities",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "pcc",
+      "source": "https://github.com/sektioneins/pcc",
+      "description": "PHP Secure Configuration Checker; parse php.ini to find security misconfiguration",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Locksmith",
+      "website": "https://jakehildreth.github.io/Locksmith/",
+      "source": "https://github.com/jakehildreth/Locksmith",
+      "description": "Find and fix common misconfigurations in Active Directory Certificate Services",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "windows, AD CS"
+    },
+    {
+      "name": "PingCastle",
+      "website": "https://www.pingcastle.com/",
+      "source": "https://github.com/netwrix/pingcastle",
+      "description": "Assess the Active Directory security level with a methodology based on risk assessment",
+      "language": "CSharp",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "Windows"
+    },
+    {
+      "name": "YASAT",
+      "source": "https://github.com/montjoie/yasat",
+      "description": "TYet Another Stupid Audit Tool; check general Linux system and common softwares configuration",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "yasat"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+#backToTop
+  display: none
+  position: fixed
+  bottom: 20px
+  right: 30px
+  z-index: 99
+
+// Search page
+.logo // logo center horizontaly
+  margin: auto
+.card-equal-height // fix
+  display: flex
+  flex-direction: column
+  height: 100%
+.card-equal-height .card-footer
+  margin-top: auto
+
+$layout-breakpoint-mobile: 768px
+@media (min-width: $layout-breakpoint-mobile)
+  footer nav .level-item
+    max-width: 18%
+
+// workaround https://github.com/jgthms/bulma/issues/3098
+.hero-head
+  a.navbar-item, a.navbar-link
+    color: white
+  a.navbar-item:hover, a.navbar-link:hover
+    color: #ff5050
+
+// Fix color for dark mode
+@media (prefers-color-scheme: dark)
+  :root
+    .hero-head
+      a.navbar-item:hover, a.navbar-link:hover
+        color: white
+    // fix tables color
+    table.TF
+      .no-results, .inf, th
+        background-color: inherit
+    .no-results
+      color: inherit
+      background-color: inherit
+
+// Re-create "tiles" of the same size
+.grid .cell article.notification
+  display: flex
+  flex-direction: column
+  height: 100%

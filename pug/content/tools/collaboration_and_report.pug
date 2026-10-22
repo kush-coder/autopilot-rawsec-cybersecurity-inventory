@@ -1,0 +1,14 @@
+include ../../mixins/tool.pug
+table.table#tools-collaboration-and-report
+    thead
+        tr
+            th Name
+            th Website
+            th Source
+            th Description
+            th Programming language
+            th Price
+            th Online
+    tbody
+        each tool in tools.collaboration_and_report.tools
+            +tool(tool)

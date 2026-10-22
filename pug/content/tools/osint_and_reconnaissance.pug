@@ -1,0 +1,14 @@
+include ../../mixins/tool.pug
+table.table#tools-osint-and-reconnaissance
+    thead
+        tr
+            th Name
+            th Website
+            th Source
+            th Description
+            th Programming language
+            th Price
+            th Online
+    tbody
+        each tool in tools.osint_and_reconnaissance.tools
+            +tool(tool)

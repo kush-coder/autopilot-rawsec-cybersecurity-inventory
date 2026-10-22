@@ -1,0 +1,840 @@
+{
+  "tools": [
+    {
+      "name": "0xC2",
+      "website": "https://www.0xc2.io/",
+      "description": "Command & Control server; position independent code with modular agents, evasion tactics, and Lua scripting",
+      "language": "C",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "221b",
+      "source": "https://github.com/CMEPW/221b",
+      "description": "Bake a windows payload from the C2 of your choice to bypass AV",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "packer, obfuscation"
+    },
+    {
+      "name": "AVET",
+      "source": "https://github.com/govolution/avet",
+      "description": "AntiVirus Evasion Tool; targeting windows machines with executable files",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus"
+    },
+    {
+      "name": "BadExclusions",
+      "source": "https://github.com/iamagarre/BadExclusions",
+      "description": "Identify folder custom or undocumented exclusions on AV/EDR",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BadExclusionsNWBO",
+      "source": "https://github.com/iamagarre/BadExclusionsNWBO",
+      "description": "Identify folder custom or undocumented exclusions on AV/EDR; evolution of BadExclusions but with better opsec",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BOF.NET",
+      "source": "https://github.com/CCob/BOF.NET",
+      "description": "A .NET Runtime for Cobalt Strike's Beacon Object Files",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus, C2"
+    },
+    {
+      "name": "Brute Ratel",
+      "website": "https://bruteratel.com/",
+      "description": "Command & Control server; DNS over HTTPS, external channels, indirect syscalls",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "CarbonCopy",
+      "source": "https://github.com/paranoidninja/CarbonCopy",
+      "description": "Create a spoofed certificate of any online website and signs an executable for AV Evasion; works for Windows and Linux",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus, signature"
+    },
+    {
+      "name": "ConfuserEx",
+      "source": "https://github.com/mkaring/ConfuserEx",
+      "description": "Protector for .NET applications",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "packer"
+    },
+    {
+      "name": "convoC2",
+      "source": "https://github.com/cxnturi0n/convoC2",
+      "description": "Command and Control infrastructure over Microsoft Teams",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C2"
+    },
+    {
+      "name": "Cortex XDR Config Extractor",
+      "source": "https://github.com/Laokoon-SecurITy/Cortex-XDR-Config-Extractor",
+      "description": "Parse the Database Lock Files of the Cortex XDR Agent by Palo Alto Networks and extract Agent Settings, the Hash and Salt of the Uninstall Password, as well as possible Exclusions",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Covenant",
+      "source": "https://github.com/cobbr/Covenant",
+      "description": "Command & Control framework with multi-user collaboration",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "CaptainCredz",
+      "source": "https://github.com/synacktiv/captaincredz",
+      "description": "Modular and discreet password-spraying tool with cache mechanism and fine-grained timing control",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CredMaster",
+      "source": "https://github.com/knavesec/CredMaster",
+      "description": "Password spraying, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "credmaster"
+    },
+    {
+      "name": "CSSG",
+      "source": "https://github.com/RCStep/CSSG",
+      "description": "Cobalt Strike Shellcode Generator; script used to more easily generate and format beacon shellcode in Cobalt Strike",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dnscat2",
+      "source": "https://github.com/iagox86/dnscat2",
+      "description": "DNS tunnel meant for encrypted Command & Control channel, data exfiltration",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Donut",
+      "source": "https://github.com/TheWover/donut",
+      "description": "Generates x86_32, x86_64, or AMD64 position-independent shellcode that loads .NET Assemblies, PE files (EXE), VBScript, JScript, and DLL files from memory and runs them with parameters",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus"
+    },
+    {
+      "name": "EDRSilencer",
+      "source": "https://github.com/netero1010/EDRSilencer",
+      "description": "Uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus"
+    },
+    {
+      "name": "fireELF",
+      "source": "https://github.com/rek7/fireELF",
+      "description": "Fileless linux malware framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "FireProx",
+      "source": "https://github.com/ustayready/fireprox",
+      "description": "AWS API gateway management for creating on the fly HTTP pass-through proxies for unique IP rotation",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "fireprox"
+    },
+    {
+      "name": "Git-Rotate",
+      "source": "https://github.com/dunderhay/git-rotate",
+      "description": "Leveraging GitHub Actions to rotate IP addresses during password spraying attacks to bypass IP-Based blocking",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Freeze",
+      "source": "https://github.com/optiv/Freeze",
+      "description": "Payload creation tool used for circumventing EDR security controls to execute shellcode in a stealthy manner",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gmailc2",
+      "source": "https://github.com/machine1337/gmailc2",
+      "description": "Undetectable C2 server that communicates via Google SMTP to evade antivirus protections and network traffic restrictions",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gocheck",
+      "source": "https://github.com/gatariee/gocheck",
+      "description": "Analyse a binary to show what Windows Defender AV would flag",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Gophish",
+      "website": "https://getgophish.com/",
+      "source": "https://github.com/gophish/gophish",
+      "description": "Phishing toolkit providing the ability to setup and execute phishing engagements and security awareness training",
+      "language": "Go",
+      "price": "Free",
+      "online": "True",
+      "blackarch": "gophish"
+    },
+    {
+      "name": "Go365",
+      "source": "https://github.com/optiv/Go365",
+      "description": "User enumeration and password guessing for Office 365 / Microsoft365",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Outlook"
+    },
+    {
+      "name": "gscript",
+      "source": "https://github.com/gen0cide/gscript",
+      "description": "Genesis Scripting Engine; framework to rapidly implement custom droppers for all three major operating systems",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hades",
+      "source": "https://github.com/f1zm0/hades",
+      "description": "Shellcode loader that combines multiple evasion techniques with the aim of bypassing the defensive mechanisms commonly used by modern AV/EDRs",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus, bypass, obfuscation"
+    },
+    {
+      "name": "Hades C2",
+      "source": "https://github.com/Lavender-exe/Hades-C2",
+      "description": "Basic Command and Control server",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "HadesHunter",
+      "source": "https://github.com/anak0ndah/HadesHunter",
+      "description": "Secrets scanner for Microsoft 365 environments; scans Teams conversations, Outlook emails, and OneDrive/SharePoint files for passwords, API keys, and other sensitive data during penetration tests and red team engagements",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "O365"
+    },
+    {
+      "name": "HardHat C2",
+      "source": "https://github.com/DragoQCC/HardHatC2",
+      "description": "Cross-platform, collaborative, Command & Control framework",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Havoc",
+      "source": "https://github.com/HavocFramework/Havoc",
+      "description": "Malleable post-exploitation command and control framework",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Hooka",
+      "source": "https://github.com/D3Ext/Hooka",
+      "description": "Shellcode loader generator with multiple injection techniques, shellcode encryption, and AMSI/ETW patching for evasion",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "malware, packer"
+    },
+    {
+      "name": "IPSpinner",
+      "source": "https://github.com/synacktiv/IPSpinner",
+      "description": "Local proxy which can be used to redirect all incoming requests through several providers to rotate the source IP address of each request, running a bruteforce operation while avoiding blocked by IP address restrictions, supports AWS (API Gateway), Azure (Cloud Shell) and GitHub (GitHub Actions)",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "JavaScript Obfuscator",
+      "website": "https://obfuscator.io/",
+      "source": "https://github.com/javascript-obfuscator/javascript-obfuscator",
+      "description": "JavaScript obfuscator; features: variables renaming, strings extraction and encryption, dead code injection, control flow flattening, various code transformations, etc.",
+      "language": "TypeScript",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Kage",
+      "source": "https://github.com/WayzDev/Kage",
+      "description": "Graphical user interface for Metasploit Meterpreter and session handler",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "King Phisher",
+      "source": "https://github.com/rsmusllp/king-phisher",
+      "description": "A tool for testing and promoting user awareness by simulating real world phishing attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kubesploit",
+      "source": "https://github.com/cyberark/kubesploit",
+      "description": "Post-exploitation HTTP/2 Command & Control server and agent focused on containerized environments",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "lateralus",
+      "source": "https://github.com/lateralusd/lateralus",
+      "description": "Terminal based phishing campaign tool",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "LightsOut",
+      "source": "https://github.com/icyguider/LightsOut",
+      "description": "Generate an obfuscated DLL that will disable AMSI & ETW",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "link",
+      "source": "https://github.com/postrequest/link",
+      "description": "Command and control framework; HTTPS communication, process injection, in-memory .NET assembly execution, SharpCollection tools, sRDI implementation for shellcode generation, Windows link reloads DLLs from disk into current process",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "LoadThat-PEandAssembly",
+      "source": "https://github.com/ProcessusT/LoadThat-PEandAssembly",
+      "description": "In-memory PE loaders that decrypt and execute a PE or .NET assembly entirely from memory without writing to disk",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "LP-DB",
+      "website": "https://lp-db.github.io/lp-db/",
+      "source": "https://github.com/lp-db/lp-db",
+      "description": "Login Pages Database forms a knowledge base on login pages related to malicious activities (C2 panels, phishing kits...)",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "macro_pack",
+      "source": "https://github.com/sevagas/macro_pack",
+      "description": "Obfuscation and generation of retro formats such as MS Office documents or VBS like format",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "antimalware, bypass, shortcut"
+    },
+    {
+      "name": "Mangle",
+      "source": "https://github.com/optiv/Mangle",
+      "description": "Manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "obfuscation"
+    },
+    {
+      "name": "Merlin",
+      "source": "https://github.com/Ne0nd0g/merlin",
+      "description": "Post-exploitation HTTP/2 Command & Control server and agent",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2",
+      "blackarch": "merlin-server"
+    },
+    {
+      "name": "MFASweep",
+      "source": "https://github.com/dafthack/MFASweep",
+      "description": "Check if MFA is enabled on multiple Microsoft services",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Azure, O365, Exchange, ADFS"
+    },
+    {
+      "name": "Mística",
+      "source": "https://github.com/IncideDigital/Mistica",
+      "description": "Allows to embed data into application layer protocol fields, with the goal of establishing a bi-directional channel for arbitrary communications; supports encapsulation into HTTP, HTTPS, DNS and ICMP protocols",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Modlishka",
+      "source": "https://github.com/drk1wi/Modlishka",
+      "description": "HTTP reverse proxy designed for phishing",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "2FA",
+      "blackarch": "modlishka"
+    },
+    {
+      "name": "monomorph",
+      "source": "https://github.com/DavidBuchanan314/monomorph",
+      "description": "MD5-monomorphic shellcode packer, all payloads have the same MD5 hash",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Mythic",
+      "source": "https://github.com/its-a-feature/Mythic",
+      "description": "Collaborative red teaming framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Nighthawk",
+      "website": "https://www.mdsec.co.uk/nighthawk/",
+      "description": "Command & Control framework; multi-operator, API driven, malleable native implant",
+      "language": "CSharp",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Nimbo-C2",
+      "source": "https://github.com/itaymigdal/Nimbo-C2",
+      "description": "Simple and lightweight Command & Control framework",
+      "language": "Nim",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "NimPlant",
+      "source": "https://github.com/chvancooten/NimPlant",
+      "description": "Light-weight first-stage Command & Control implant",
+      "language": "Nim",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "OAuthBandit",
+      "source": "https://github.com/anak0ndah/OAuthBandit",
+      "description": "Post-exploitation framework that automates the extraction, validation, and exploitation of Microsoft OAuth tokens cached on compromised Windows endpoints for Red Team operations",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Azure AD, WAM"
+    },
+    {
+      "name": "Octopus",
+      "source": "https://github.com/mhaskar/Octopus",
+      "description": "Pre-operation C2 server",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Overlord",
+      "website": "https://blog.qsecure.com.cy/posts/overlord/",
+      "source": "https://github.com/qsecure-labs/overlord",
+      "description": "CLI used to build Red Teaming infrastructure in an automated way, supports AWS and Digital Ocean",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "pe_to_shellcode",
+      "source": "https://github.com/hasherezade/pe_to_shellcode",
+      "description": "Converts PE into a shellcode",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PEzor",
+      "source": "https://github.com/phra/PEzor",
+      "description": "Shellcode & PE Packer",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "phpsploit",
+      "source": "https://github.com/nil0x42/phpsploit",
+      "description": "Command & Controll framework which silently persists on webserver via polymorphic PHP oneliner",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "PipeViewer",
+      "source": "https://github.com/cyberark/PipeViewer",
+      "description": "Shows detailed information about named pipes in Windows and searching for insecure permissions",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PoshC2",
+      "source": "https://github.com/nettitude/PoshC2",
+      "description": "Proxy aware Command & Control framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "PowerShdll",
+      "source": "https://github.com/p3nt4/PowerShdll",
+      "description": "Run PowerShell with dlls only to bypass software restrictions; it can be run with rundll32.exe, installutil.exe, regsvcs.exe, regasm.exe, regsvr32.exe or as a standalone executable",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ProtectMyTooling",
+      "website": "https://mgeeky.tech/protectmytooling/",
+      "source": "https://github.com/mgeeky/ProtectMyTooling",
+      "description": "Multi-Packer wrapper allowing daisy-chaining various packers and obfuscators; featured with artifacts watermarking, IOCs collection & PE backdooring",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "obfuscation"
+    },
+    {
+      "name": "Pupy",
+      "source": "https://github.com/n1nj4sec/pupy",
+      "description": "Cross-platform, multi function Command & Control and post-exploitation framework; fileless/all-in-memory execution, low footprint, multi-transport",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Quasar",
+      "source": "https://github.com/quasar/Quasar",
+      "description": "Remote Administration Tool (RAT) for Windows",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Redcloud",
+      "source": "https://github.com/khast3x/Redcloud",
+      "description": "Automated Red Team Infrastructure deployment using Docker",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RedELK",
+      "source": "https://github.com/outflanknl/RedELK",
+      "description": "Red Team's SIEM; used by Red Teams for tracking and alarming about Blue Team activities as well as better usability in long term operations",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RedEye",
+      "source": "https://github.com/cisagov/RedEye",
+      "description": "Red team C2 log visualization",
+      "language": "TypeScript",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C"
+    },
+    {
+      "name": "ReelPhish",
+      "source": "https://github.com/mandiant/ReelPhish",
+      "description": "Real time phishing tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Ruler",
+      "source": "https://github.com/sensepost/ruler",
+      "description": "Interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP to abuse the client-side Outlook features and gain a shell",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ScareCrow",
+      "source": "https://github.com/optiv/ScareCrow",
+      "description": "Payload creation framework designed around EDR bypass",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DLL"
+    },
+    {
+      "name": "SCCMHunter",
+      "source": "https://github.com/garrettfoster13/sccmhunter",
+      "description": "Post-exploitation way to streamline identifying, profiling, and attacking Microsoft Configuration Manager related assets in an Active Directory domain",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "MCM, ConfigMgr, SCCM"
+    },
+    {
+      "name": "SHAD0W",
+      "source": "https://github.com/bats3c/shad0w",
+      "description": "Modular C2 framework designed to successfully operate covertly on heavily monitored environments",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SharpC2",
+      "website": "https://sharpc2.readthedocs.io/en/latest/",
+      "source": "https://github.com/rasta-mouse/SharpC2",
+      "description": "Command & Control framework",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "SharpEDRChecker",
+      "source": "https://github.com/PwnDexter/SharpEDRChecker",
+      "description": "Detect and identify the presence of known defensive products such as AV's, EDR's and logging tools",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SharpSCCM",
+      "source": "https://github.com/Mayyhem/SharpSCCM",
+      "description": "Post-exploitation way of leveraging Microsoft Configuration Manager for lateral movement and credential gathering without requiring access to the SCCM administration console GUI",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "MCM, ConfigMgr"
+    },
+    {
+      "name": "Shellcrypt",
+      "source": "https://github.com/iilegacyyii/Shellcrypt",
+      "description": "Obfuscate shellcode using encoding, encryption, compression",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Shelltropy",
+      "source": "https://github.com/kleiton0x00/Shelltropy/",
+      "description": "A technique to hide malicious shellcode based on low-entropy via Shannon encoding",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SILENTTRINITY",
+      "source": "https://github.com/byt3bl33d3r/SILENTTRINITY",
+      "description": "Asynchronous, multiplayer and multiserver Command & Control framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Sliver",
+      "source": "https://github.com/BishopFox/sliver",
+      "description": "Cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS; remote access tool (RAT)",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SocialFish",
+      "source": "https://github.com/UndeadSec/SocialFish",
+      "description": "Phishing targeting social media logins; supports Ngrok tunneling and a mobile controller",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "socialfish"
+    },
+    {
+      "name": "Starkiller",
+      "source": "https://github.com/BC-SECURITY/Starkiller",
+      "description": "WebUI for Empire",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Synergy Httpx",
+      "source": "https://github.com/t3l3machus/Synergy-httpx",
+      "description": "HTTP(S) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SysWhisper3",
+      "source": "https://github.com/klezVirus/SysWhispers3",
+      "description": "SysWhispers on Steroid, AV/EDR evasion via direct system calls",
+      "language": "Assembly",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "TeamsBreaker",
+      "source": "https://github.com/ASOT-LABS/TeamsBreaker",
+      "description": "Automating the sending of phishing messages to MS Teams users; based on TeamsPhisher and TeamsEnum",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "microsoft"
+    },
+    {
+      "name": "TeamsEnum",
+      "source": "https://github.com/sse-secure-systems/TeamsEnum",
+      "description": "User enumeration of MS Teams users",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "microsoft"
+    },
+    {
+      "name": "TeamFiltration",
+      "source": "https://github.com/Flangvik/TeamFiltration",
+      "description": "Framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False",
+      "keywords": "microsoft"
+    },
+    {
+      "name": "TeamsImplant",
+      "source": "https://github.com/Allevon412/TeamsImplant",
+      "description": "MS Teams implant persistent backdoor",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "microsoft"
+    },
+    {
+      "name": "TeamsPhisher",
+      "source": "https://github.com/Octoberfest7/TeamsPhisher",
+      "description": "Facilitates the delivery of phishing messages and attachments to MS Teams users whose organizations allow external communications",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "microsoft"
+    },
+    {
+      "name": "toastnotify-bof",
+      "source": "https://github.com/brmkit/toastnotify-bof",
+      "description": "Cobalt Strike Beacon Object File that sends Windows toast notifications for user manipulation, with support for custom payload templates",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "keywords": "social engineering"
+    },
+    {
+      "name": "TrevorC2",
+      "source": "https://github.com/trustedsec/trevorc2",
+      "description": "Command and control framework masking the activity by emulating legitimate website",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "TREVORproxy",
+      "source": "https://github.com/blacklanternsecurity/TREVORproxy",
+      "description": "SOCKS proxy that randomizes source IP addresses; round-robin through SSH tunnels or assign billions of unique source addresses",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "WAF bypass, password spraying",
+      "blackarch": "trevorproxy"
+    },
+    {
+      "name": "UBoat",
+      "source": "https://github.com/Souhardya/UBoat",
+      "description": "HTTP botnet PoC",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Villain",
+      "source": "https://github.com/t3l3machus/Villain",
+      "description": "Distributed command and control framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Warhorse",
+      "source": "https://github.com/warhorse/warhorse",
+      "description": "Ansible playbook to deploy infrastructure in the cloud for conducting Red Team assessments",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Zphisher",
+      "source": "https://github.com/htr-tech/zphisher",
+      "description": "Automated phishing tool with multiple tunneling options; fork of Shellphish",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

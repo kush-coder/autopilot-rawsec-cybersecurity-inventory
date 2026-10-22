@@ -1,0 +1,149 @@
+{
+  "certifications": [
+    {
+      "name": "AWS Red Team Expert",
+      "acronym": "ARTE",
+      "issuer": "HackTricks",
+      "description": "Understanding of AWS security principles, techniques, and best practices by delving into topics such as identity and access management, data protection, networking… Red team methodologies specifically tailored for AWS environments, identify and remediate potential vulnerabilities effectively",
+      "website": "https://training.hacktricks.xyz/courses/arte",
+      "price": "1099 €"
+    },
+    {
+      "name": "Burp Suite Certified Practitioner",
+      "acronym": "BSCP",
+      "issuer": "PortSwigger",
+      "description": "Certification for web security professionals, demonstrates a deep knowledge of web security vulnerabilities, the correct mindset to exploit them, and the Burp Suite skills needed to carry this out",
+      "website": "https://portswigger.net/web-security/certification",
+      "price": "89 €"
+    },
+    {
+      "name": "Certified Bug Bounty Hunter",
+      "acronym": "CBBH",
+      "issuer": "HackTheBox",
+      "description": "Technical competency in the bug bounty hunting and web application penetration testing domains at an intermediate level, spot security issues and identify avenues of exploitation that may not be immediately apparent from searching for CVEs or known exploit PoCs, think outside the box, chain multiple vulnerabilities to showcase maximum impact, and actionably help developers remediate vulnerabilities through commercial-grade bug reports",
+      "website": "https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter",
+      "price": "490 $"
+    },
+    {
+      "name": "Certified Penetration Testing Specialist",
+      "acronym": "CPTS",
+      "issuer": "HackTheBox",
+      "description": "Technical competency in the ethical hacking and penetration testing domains at an intermediate level, spot security issues and identify avenues of exploitation that may not be immediately apparent from searching for CVEs or known exploit PoCs, think outside the box, chain multiple vulnerabilities to showcase maximum impact, and actionably help organizations remediate vulnerabilities through commercial-grade pentesting reports",
+      "website": "https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist",
+      "price": "490 $"
+    },
+    {
+      "name": "Certified Web Exploitation Expert",
+      "acronym": "CWEE",
+      "issuer": "HackTheBox",
+      "description": "Technical competency in the web security, web penetration testing, and secure coding domains at an advanced level and be well-versed in the application debugging, source code review, and custom exploit development aspects of web security testing, professionally conduct web penetration tests against modern and highly secure web applications, as well as report vulnerabilities found in code or arising from logical errors",
+      "website": "https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert",
+      "price": "1260 $"
+    },
+    {
+      "name": "Certified WiFiChallenge Professional",
+      "acronym": "CWP",
+      "issuer": "WiFiChallenge Academy",
+      "description": "Covers Wi-Fi network theory and advanced techniques for managing and attacking Wi-Fi networks. Learn about OPN, OWE, WEP, PSK, MGT, and SAE, conducting security audits and offensive reconnaissance.",
+      "website": "https://academy.wifichallenge.com/courses/certified-wifichallenge-professional-cwp?ref=c02137",
+      "price": "199 €"
+    },
+    {
+      "name": "GIAC Exploit Researcher and Advanced Penetration Tester",
+      "acronym": "GXPN",
+      "issuer": "GIAC",
+      "description": "Validates advanced skills in identifying and mitigating major security flaws, conducting sophisticated penetration tests, simulating attacker behavior, and demonstrating related business risks",
+      "website": "https://www.giac.org/certifications/exploit-researcher-advanced-penetration-tester-gxpn/",
+      "price": "999 $",
+      "keywords": "SANS"
+    },
+    {
+      "name": "GIAC Penetration Tester Certification",
+      "acronym": "GPEN",
+      "issuer": "GIAC",
+      "description": "Conduct a penetration test using best-practice techniques and methodologies; conduct exploits, engage in detailed environmental reconnaissance, and utilize a process-oriented approach to penetration testing projects",
+      "website": "https://www.giac.org/certifications/penetration-tester-gpen/",
+      "price": "999 $",
+      "keywords": "SANS"
+    },
+    {
+      "name": "OffSec Certified Professional",
+      "acronym": "OSCP",
+      "issuer": "OffSec",
+      "description": "Penetration testing with Kali Linux, introduces penetration testing methodologies, tools, and techniques",
+      "website": "https://www.offsec.com/courses/pen-200/",
+      "price": "1649 $",
+      "keywords": "PEN-200, PWK"
+    },
+    {
+      "name": "OffSec Experienced Penetration tester",
+      "acronym": "OSEP",
+      "issuer": "OffSec",
+      "description": "Advanced evasion techniques and breaching defenses, perform advanced penetration tests against mature organizations with an established security function and focuses on bypassing security mechanisms that are designed to block attacks",
+      "website": "https://www.offsec.com/courses/pen-300/",
+      "price": "1649 $",
+      "keywords": "PEN-300, ETBD"
+    },
+    {
+      "name": "OffSec Exploit Developer",
+      "acronym": "OSED",
+      "issuer": "OffSec",
+      "description": "Windows user mode exploit development, from basic buffer overflow attacks to cracking the critical security mitigations protecting enterprises",
+      "website": "https://www.offsec.com/courses/exp-301/",
+      "price": "1649 $",
+      "keywords": "EXP-301, WUMED"
+    },
+    {
+      "name": "OffSec Exploit Expert",
+      "acronym": "OSEE",
+      "issuer": "OffSec",
+      "description": "Advanced Windows exploitation, develop creative solutions that work in today's increasingly difficult exploitation environment, from security mitigation bypass techniques to complex heap manipulations and 64-bit kernel exploitation",
+      "website": "https://www.offsec.com/courses/exp-401/",
+      "keywords": "EXP-401, AWE"
+    },
+    {
+      "name": "OffSec macOS Researcher",
+      "acronym": "OSMR",
+      "issuer": "OffSec",
+      "description": "Advanced macOS control bypasses, focusing on local privilege escalation and bypassing the operating system’s defenses",
+      "website": "https://www.offsec.com/courses/exp-312/",
+      "price": "1649 $",
+      "keywords": "EXP-312, MCB"
+    },
+    {
+      "name": "OffSec Web Assessor",
+      "acronym": "OSWA",
+      "issuer": "OffSec",
+      "description": "Leverage web exploitation techniques on modern applications, discover and exploit common web vulnerabilities and exfiltrate sensitive data from target web applications",
+      "website": "https://www.offsec.com/courses/web-200/",
+      "price": "1649 $",
+      "keywords": "WEB-200, WAKL"
+    },
+    {
+      "name": "OffSec Web Expert",
+      "acronym": "OSWE",
+      "issuer": "OffSec",
+      "description": "Advanced web attacks and exploitation, conduct white box web app penetration tests, demonstrate mastery in exploiting front-facing web apps",
+      "website": "https://www.offsec.com/courses/web-300/",
+      "price": "1649 $",
+      "keywords": "WEB-300, AWAE"
+    },
+    {
+      "name": "OffSec Wireless Professional",
+      "acronym": "OSWP",
+      "issuer": "OffSec",
+      "description": "Foundational wireless network attacks, audit and secure wireless devices, identify vulnerabilities in 802.11 networks and execute organized techniques",
+      "website": "https://www.offsec.com/courses/pen-210/",
+      "price": "799 $",
+      "keywords": "PEN-210, WA"
+    },
+    {
+      "name": "Jr Penetration Tester Certificate",
+      "acronym": "PT1",
+      "issuer": "TryHackMe",
+      "description": "It is entry-level, hands-on and built by industry experts. Demonstrate real-world adversarial thinking, validate your offensive skills and kickstart your career.",
+      "website": "https://tryhackme.com/certification/junior-penetration-tester",
+      "price": "349 €"
+    }
+  ]
+}

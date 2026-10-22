@@ -1,0 +1,353 @@
+{
+  "tools": [
+    {
+      "name": "AWS Extender",
+      "tool": "Burp Suite",
+      "source": "https://github.com/VirtueSecurity/aws-extender",
+      "description": "Identify and test S3 buckets, Google Storage buckets and Azure Storage containers for common misconfiguration",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BinExport",
+      "tool": "IDA / Binary Ninja / Ghidra",
+      "source": "https://github.com/google/binexport",
+      "description": "Binary exporter, generates an export from the disassembly of a program that can be used without the disassembler",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BurpBounty",
+      "tool": "Burp Suite",
+      "source": "https://github.com/wagiro/BurpBounty",
+      "description": "Scan Check Builder in BApp Store, improve the active and passive scanner by means of personalized rules through a graphical interface",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CogniCrypt",
+      "tool": "Eclipse",
+      "source": "https://github.com/eclipse-cognicrypt/CogniCrypt",
+      "description": "Supports Java developers in using Java Cryptographic APIs",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Copy As FFUF",
+      "tool": "Burp Suite",
+      "source": "https://github.com/d3k4z/burp-copy-as-ffuf",
+      "description": "Copies the selected request(s) as FFUF skeleton",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Copy As Go Request",
+      "tool": "Burp Suite",
+      "website": "https://portswigger.net/bappstore/6d8cc9bde0b948959aa557d9bd0f0e66",
+      "source": "https://github.com/portswigger/copy-as-go-request",
+      "description": "Copies the selected request(s) as Go Request invocations",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Copy as Node Request",
+      "tool": "Burp Suite",
+      "website": "https://portswigger.net/bappstore/e170472f83ef4da1bca5897203b6b33d",
+      "source": "https://github.com/portswigger/copy-as-node-request",
+      "description": "Copies the selected request(s) as Node.JS Request invocations",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Copy as PowerShell Requests",
+      "tool": "Burp Suite",
+      "website": "https://portswigger.net/bappstore/4da25d602db04f5ca7c4b668e4611cfe",
+      "source": "https://github.com/portswigger/copy-as-powershell-requests",
+      "description": "Copies the selected request(s) as PowerShell invocation(s)",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Copy As Python-Requests",
+      "tool": "Burp Suite",
+      "website": "https://portswigger.net/bappstore/b324647b6efa4b6a8f346389730df160",
+      "source": "https://github.com/portswigger/copy-as-python-requests",
+      "description": "Copies selected request(s) as Python-Requests invocations",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Copy As XMLHttpRequest",
+      "tool": "Burp Suite",
+      "source": "https://github.com/vulnbe/burpsuite-copy-as-xmlhttprequest",
+      "description": "Copies selected request(s) as JavaScript XMLHttpRequest invocations",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CSTC",
+      "tool": "Burp Suite",
+      "source": "https://github.com/usdAG/cstc",
+      "description": "Cyber Security Transformation Chef; chaining simple operations and formatting on each incoming or outgoing HTTP message",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Exporter",
+      "tool": "Burp Suite",
+      "source": "https://github.com/artssec/burp-exporter",
+      "description": "Copies selected request(s) as cURL, wget, Python Request, Perl LWP, PHP HTTP_Request2, Go, NodeJS Request, jQuery AJAX, PowerShell, HTML Forms, Ruby Net::HTTP, JavaScript XHR invocations",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HopLa",
+      "tool": "Burp Suite",
+      "source": "https://github.com/synacktiv/HopLa",
+      "description": "Adds autocompletion support and useful payloads in Burp Suite",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "hrtng",
+      "tool": "IDA",
+      "source": "https://github.com/KasperskyLab/hrtng",
+      "description": "Collections of tools: decryption, deobfuscation, patching, librraries code recognition and various pseudocode transformations",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "http-screenshot-html",
+      "tool": "Nmap",
+      "source": "https://github.com/afxdub/http-screenshot-html",
+      "description": "Nmap NSE script that scans for http server, takes a screenshot of them, and organizes the results into an HTML report",
+      "language": "Lua",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hyperpwn",
+      "tool": "Hyper",
+      "source": "https://github.com/bet4it/hyperpwn",
+      "description": "Improve the display when debugging with GDB, needs GEF, pwndbg or peda to be loaded in GDB as a backend",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GEF",
+      "tool": "GDB",
+      "source": "https://github.com/hugsy/gef",
+      "description": "GDB Enhanced Features, multi-architecture",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "IIS Tilde Enumeration Scanner",
+      "tool": "Burp Suite",
+      "source": "https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner",
+      "description": "Check for the IIS tilde enumeration / IIS 8.3 short filename disclosure vulnerability and to exploit it by enumerating all the short names in an IIS web server",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "KeePwn",
+      "tool": "CrackMapExec",
+      "source": "https://github.com/Orange-Cyberdefense/KeePwn",
+      "description": "Automate KeePass discovery and secret extraction",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Matro7sh loaders",
+      "tool": "Havoc",
+      "source": "https://github.com/matro7sh/matro7sh_loaders",
+      "description": "Encode Havoc shellcode (.bin) in XOR, chacha20, AES; supports 2 loaders: Myph, 221b",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Mona",
+      "tool": "Immunity Debugger",
+      "source": "https://github.com/corelan/mona",
+      "description": "Set of commands for Immunity Debugger",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "nowafpls",
+      "tool": "Burp Suite",
+      "source": "https://github.com/assetnote/nowafpls",
+      "description": "Bypass WAFs through the insertion of junk data into HTTP requests",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "nowafplsV2",
+      "tool": "Burp Suite",
+      "source": "https://github.com/irwankusuma/nowafplsV2",
+      "description": "Bypass WAF by injecting junk data into HTTP requests; adds auto-inject for Active Scanner/DAST and supports JSON, XML, multipart, CSV, YAML, and GraphQL payloads",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PEDA",
+      "tool": "GDB",
+      "source": "https://github.com/longld/peda",
+      "description": "Python Exploit Development Assistance, (only python2.7)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PingCastle CME NXC",
+      "tool": "NetExec",
+      "source": "https://github.com/TRIKKSS/CrackMapExec-PingCastle",
+      "description": "CrackMapExec / NetExec module that execute PingCastle on a remote machine",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pwndbg",
+      "tool": "GDB",
+      "website": "https://pwndbg.re/",
+      "source": "https://github.com/pwndbg/pwndbg",
+      "description": "Enhance GDB, for exploit development and reverse engineering",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PwnFox",
+      "tool": "Burp Suite / Firefox",
+      "source": "https://github.com/yeswehack/PwnFox",
+      "description": "Allow to have multiple identities in the same browser using firefox containers and hightlight the profile used with different colors",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Quokka",
+      "tool": "IDA",
+      "source": "https://github.com/quarkslab/quokka",
+      "description": "Binary exporter, generates an export from the disassembly of a program that can be used without the disassembler",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Scavenger",
+      "tool": "Burp Suite",
+      "source": "https://github.com/0xDexter0us/Scavenger",
+      "description": "Create target specific and tailored wordlist from burp history",
+      "language": "Kotlin",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "semgrep_bn",
+      "tool": "Binary Ninja",
+      "source": "https://github.com/interruptlabs/semgrep_bn",
+      "description": "Automate the process of generating pseudo-C code from binary files, running Semgrep over this pseudo-C, and presenting the results",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sploitego",
+      "tool": "Maltego",
+      "source": "https://github.com/allfro/sploitego",
+      "description": "Maltego penetration testing Transforms",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Stepper",
+      "tool": "Burp Suite",
+      "source": "https://github.com/CoreyD97/Stepper",
+      "description": "Evolution of Burp Suite's Repeater tool, providing the ability to create sequences of steps and define regular expressions to extract values from responses",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Tenet",
+      "tool": "IDA",
+      "website": "http://blog.ret2.io/2021/04/20/tenet-trace-explorer/",
+      "source": "https://github.com/gaasedelen/tenet",
+      "description": "Execution trace explorer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ttddbg",
+      "tool": "IDA",
+      "source": "https://github.com/airbus-cert/ttddbg",
+      "description": "Time Travel Debugging IDA plugin",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "volatility-gpg",
+      "tool": "Volatility3",
+      "source": "https://github.com/kudelskisecurity/volatility-gpg",
+      "description": "Volatility3 plugins that can retrieve partial and full gpg passphrases from gpg-agent's cache",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "vulners",
+      "tool": "Burp Suite",
+      "website": "https://vulners.com",
+      "source": "https://github.com/vulnersCom/burp-vulners-scanner",
+      "description": "Vulnerability scanner based on vulners.com search API",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "XSSor",
+      "tool": "Burp Suite",
+      "source": "https://github.com/Quitten/XSSor",
+      "description": "semi-automatic reflected and persistent XSS scanner",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "YesWeBurp",
+      "tool": "Burp Suite",
+      "source": "https://github.com/yeswehack/YesWeBurp",
+      "description": "Access to all bug bounty programs directly inside Burp",
+      "language": "Kotlin",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

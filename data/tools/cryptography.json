@@ -1,0 +1,160 @@
+{
+  "tools": [
+    {
+      "name": "c7decrypt",
+      "source": "https://github.com/claudijd/c7decrypt",
+      "description": "Cisco password type-7 encryptor and decryptor",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Cipher Suite Info",
+      "website": "https://ciphersuite.info/",
+      "source": "https://github.com/hcrudolph/ciphersuite.info",
+      "description": "A searchable directory of TLS ciphersuites and related security details",
+      "language": "Python",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "crypto-condor",
+      "website": "https://quarkslab.github.io/crypto-condor/latest/index.html",
+      "source": "https://github.com/quarkslab/crypto-condor",
+      "description": "Compliance testing of implementations of cryptographic primitives",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CryptoGuard",
+      "source": "https://github.com/CryptoGuardOSS/cryptoguard",
+      "description": "Program analysis tool to find cryptographic misuse in Java and Android",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "crypto-identifier",
+      "source": "https://github.com/Acceis/crypto_identifier",
+      "description": "Tool that try to identify what cipher is used and uncipher the data",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Crypton",
+      "source": "https://github.com/ashutosh1206/Crypton",
+      "description": "Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CRYPTOREX",
+      "source": "https://github.com/zhanglikernel/CRYPTOREX",
+      "description": " Large-scale firmware analysis of cryptographic misuse in IoT devices; supports ARM, MIPS, MIPSel architetures",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Cryscanner",
+      "source": "https://github.com/amit-choudhari/cryscanner",
+      "description": "Identify misuse of cryptographic libraries by collecting and analysing logs",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Dcode",
+      "website": "http://www.dcode.fr/tools-list",
+      "description": "Code and decode all kind of checksums, algorithms, codes or ciphers",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "FeatherDuster",
+      "source": "https://github.com/nccgroup/featherduster",
+      "description": "Cryptanalysis tool and library",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Haiti",
+      "website": "https://noraj.github.io/haiti/",
+      "source": "https://github.com/noraj/haiti",
+      "description": "Hash type identifier (CLI & lib)",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "haiti"
+    },
+    {
+      "name": "hashID",
+      "source": "https://github.com/psypanda/hashID",
+      "description": "Identify the different types of hashes",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "hashid"
+    },
+    {
+      "name": "houndsniff",
+      "website": "https://mcdim.xyz/projects/hs.html",
+      "source": "https://github.com/MichaelDim02/houndsniff",
+      "description": "Identify the different types of hashes",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "JWT-Key-Recovery",
+      "source": "https://github.com/FlorianPicca/JWT-Key-Recovery",
+      "description": "Recover the public key used to sign JWT tokens",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PkCrack",
+      "website": "https://www.unix-ag.uni-kl.de/%7Econrad/krypto/pkcrack.html",
+      "description": "Tool for breaking PkZip encryption",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RsaCtfTool",
+      "source": "https://github.com/Ganapati/RsaCtfTool",
+      "description": "Tool to conduct manual or automated attack on RSA",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RSATool",
+      "source": "https://github.com/ius/rsatool",
+      "description": "Tool to calculate RSA parameters",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RSHack",
+      "source": "https://github.com/zweisamkeit/RSHack",
+      "description": "RSA attack and key manipulation tool",
+      "language": "",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "XORTool",
+      "source": "https://github.com/hellman/xortool",
+      "description": "Tool to analyze multi-byte xor cipher",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

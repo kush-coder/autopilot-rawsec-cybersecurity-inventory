@@ -1,0 +1,117 @@
+{
+  "resources": [
+    {
+      "name": "API Security Academy",
+      "website": "https://escape.tech/academy/",
+      "source": "https://github.com/Escape-Technologies/graphql-security-academy",
+      "description": "Platform dedicated to understand and secure GraphQL applications",
+      "price": "Free"
+    },
+    {
+      "name": "Bugcrowd University",
+      "website": "https://www.bugcrowd.com/hackers/bugcrowd-university/",
+      "source": "https://github.com/bugcrowd/bugcrowd_university",
+      "description": "Modules with slides, videos and sometimes labs to learn web security, by Bugcrowd",
+      "price": "Free"
+    },
+    {
+      "name": "CoursesOnline",
+      "website": "https://www.coursesonline.co.uk/courses/cyber-security/",
+      "description": "Browse cyber security courses from a range of training providers, with options for beginners and those with more experience",
+      "price": "Paid"
+    },
+    {
+      "name": "Cybersecurity Guide",
+      "website": "https://cybersecurityguide.org/",
+      "description": "List of degree programs, scholarships, and certifications",
+      "price": "Free"
+    },
+    {
+      "name": "Cybrary",
+      "website": "https://www.cybrary.it/",
+      "description": "Cyber Security learning, training and certification",
+      "price": "Paid"
+    },
+    {
+      "name": "flAWS",
+      "website": "http://flaws.cloud/",
+      "description": "Learn about common mistakes and gotchas when using Amazon Web Services (AWS) from an offensive perspective",
+      "price": "Free"
+    },
+    {
+      "name": "flAWS 2",
+      "website": "http://flaws2.cloud/",
+      "description": "Learn about common mistakes and gotchas when using Amazon Web Services (AWS) from an offensive and defensive perspective",
+      "price": "Free"
+    },
+    {
+      "name": "Hacker101",
+      "website": "https://www.hacker101.com/",
+      "source": "https://github.com/Hacker0x01/hacker101",
+      "description": "Class for web security targeting bug bounty hunters and security professionals, with video lessons and a CTF platform, by HackerOne",
+      "price": "Free"
+    },
+    {
+      "name": "Hextree",
+      "website": "https://www.hextree.io/",
+      "description": "Hacking courses platform organized as micro learning",
+      "price": "Paid"
+    },
+    {
+      "name": "ITonlinelearning",
+      "website": "https://www.itonlinelearning.com/",
+      "description": "Training provider who offers certified online courses in IT, cyber security, and ethical hacking (CompTIA and EC-Council)",
+      "price": "Paid"
+    },
+    {
+      "name": "OWASP Vulnerable Web Applications Directory",
+      "website": "https://owasp.org/www-project-vulnerable-web-applications-directory/",
+      "source": "https://github.com/OWASP/OWASP-VWAD",
+      "description": "Comprehensive and registry of all known vulnerable web applications currently available",
+      "price": "Free"
+    },
+    {
+      "name": "PentestAcademy",
+      "website": "https://www.pentesteracademy.com/",
+      "description": "Cyber Security training with an online lab",
+      "price": "Paid"
+    },
+    {
+      "name": "PentesterLab",
+      "website": "https://pentesterlab.com/",
+      "description": "Pentest lab with exercises and videos: Unix, PCAP, HTTP, Code review, serialization, JWT, real vulnerabilities, GraphQL, common web vulnerabilities, MiTM, authentication (oAuth, SAML), Android, recon, advanced attacks, API, etc.",
+      "price": "Paid"
+    },
+    {
+      "name": "Portswigger Web Security Academy",
+      "website": "https://portswigger.net/web-security",
+      "description": "Web Security training with an online lab",
+      "price": "Free"
+    },
+    {
+      "name": "Pwned Labs",
+      "website": "https://pwnedlabs.io/",
+      "description": "Cloud security labs",
+      "price": "Paid",
+      "keywords": "AWS, Azure, GCP"
+    },
+    {
+      "name": "SANS",
+      "website": "https://www.sans.org/security-resources/",
+      "description": "Escal Institute of Advanced Technologies provides courses, certifications and learning materials",
+      "price": "Paid"
+    },
+    {
+      "name": "The Learning People Cyber Security Courses",
+      "website": "https://www.learningpeople.com/uk/courses/cyber-security-courses/",
+      "description": "Cyber security online learning courses",
+      "price": "Paid"
+    },
+    {
+      "name": "Virtual Hacking Labs",
+      "website": "https://www.virtualhackinglabs.com/labs/penetration-testing-lab/",
+      "description": "Pentest lab",
+      "price": "Paid"
+    }
+  ]
+}

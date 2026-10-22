@@ -1,0 +1,152 @@
+{
+  "tools": [
+    {
+      "name": "DFIR ORC",
+      "website": "https://dfir-orc.github.io/",
+      "source": "https://github.com/DFIR-ORC/dfir-orc",
+      "description": "Forensics artefact collection tool for systems running Microsoft Windows",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DFIRTrack",
+      "source": "https://github.com/stuhli/dfirtrack",
+      "description": "Incident response tracking web application, focused on handling one major incident with a lot of affected systems",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Fenrir",
+      "source": "https://github.com/Neo23x0/Fenrir",
+      "description": "IOC scanner",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "IntelMQ",
+      "source": "https://github.com/certtools/intelmq",
+      "description": "Solution for collecting and processing security feeds using a message queuing protocol",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "intelmq"
+    },
+    {
+      "name": "IRIS",
+      "website": "https://docs.dfir-iris.org/",
+      "source": "https://github.com/dfir-iris/iris-web",
+      "description": "Collaborative platform aiming to help incident responders sharing technical details during investigations",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Loki",
+      "source": "https://github.com/Neo23x0/Loki/",
+      "description": "IOC scanner",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "loki-scanner"
+    },
+    {
+      "name": "Munin",
+      "source": "https://github.com/Neo23x0/munin",
+      "description": "Online hash checker for Virustotal and other services",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "HybridAnalysis, Any.Run, URLhaus, MISP, CAPE, Malshare, Valhalla, Hashlookup, malware",
+      "blackarch": "munin-hashchecker"
+    },
+    {
+      "name": "Osquery",
+      "website": "https://osquery.io/",
+      "source": "https://github.com/osquery/osquery",
+      "description": "Uses SQL queries to monitor and analyze operating systems, providing endpoint visibility for security",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "osquery"
+    },
+    {
+      "name": "SCOT",
+      "website": "http://getscot.sandia.gov/",
+      "source": "https://github.com/sandialabs/scot",
+      "description": "Sandia Cyber Omni Tracker; cyber security incident response management system and knowledge base",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sigma",
+      "source": "https://github.com/SigmaHQ/sigma",
+      "description": "Generic signature format for SIEM systems",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "log",
+      "blackarch": "sigma"
+    },
+    {
+      "name": "ThreatHound",
+      "source": "https://github.com/MazX0p/ThreatHound",
+      "description": "Windows event log file viewer and analyser",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "uncoder.io",
+      "source": "https://uncoder.io/",
+      "description": "Translate sigma rules into various SIEM, EDR, and XDR formats",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "YARA",
+      "website": "https://virustotal.github.io/yara/",
+      "source": "https://github.com/virustotal/yara",
+      "description": "Pattern matching helping malware researchers to identify and classify malware samples",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "yara"
+    },
+    {
+      "name": "yarAnalyzer",
+      "source": "https://github.com/Neo23x0/yarAnalyzer",
+      "description": "Creates statistics on a yara rule set and files in a sample directory",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Yara Toolkit",
+      "website": "https://yaratoolkit.securitybreak.io/",
+      "description": "Yara rules editor, generator, scanner",
+      "language": "Python",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "yarGen",
+      "source": "https://github.com/Neo23x0/yarGen",
+      "description": "YARA rules generator",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "YAYA",
+      "source": "https://github.com/EFForg/yaya",
+      "description": "Yet Another Yara Automaton; automatically curate open source yara rules and run scans",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

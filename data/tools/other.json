@@ -1,0 +1,690 @@
+{
+  "tools": [
+    {
+      "name": "ADB-Toolkit",
+      "source": "https://github.com/ASHWIN990/ADB-Toolkit",
+      "description": "Wrapper around adb to ease certain tasks",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ADeleg",
+      "source": "https://github.com/mtth-bfft/adeleg",
+      "description": "Active Directory delegation management tool allowing to make a detailed inventory of delegations set up so far in a forest",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "apkpatcher",
+      "website": "https://apkpatcher.ci-yow.com/",
+      "source": "https://gitlab.com/MadSquirrels/mobile/apkpatcher",
+      "description": "Patch APK (inject Frida gadget) by modifying Smali code",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "mobile, android"
+    },
+    {
+      "name": "AppsecStudy",
+      "website": "https://appsec.study",
+      "source": "https://github.com/zzzteph/appsec.study",
+      "description": "eLearning management system for information security",
+      "language": "PHP",
+      "price": "Free",
+      "online": "True",
+      "keywords": "education"
+    },
+    {
+      "name": "Atheris",
+      "source": "https://github.com/google/atheris",
+      "description": "Coverage-guided Python fuzzing engine",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "fuzzer, CPython, libFuzzer, native code"
+    },
+    {
+      "name": "Avast Hack Check",
+      "website": "https://www.avast.com/hackcheck",
+      "description": "Service to check if an account has been compromised in a data breach, send an email with the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "Axiom",
+      "source": "https://github.com/pry0cc/axiom",
+      "description": "Dynamic infrastructure framework to distribute the workload of many different scanning tools with ease",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "cloud, DigitalOcean, IBM Cloud, Linode, Azure, AWS, GCP"
+    },
+    {
+      "name": "BHQW",
+      "source": "https://github.com/kaluche/bloodhound-quickwin",
+      "description": "Extract information from BloodHound and Neo4J",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BloodHoundCli",
+      "source": "https://github.com/dadevel/bloodhoundcli",
+      "description": "Collection of various utilities to aid in pentesting with BloodHound",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BQM",
+      "source": "https://github.com/noraj/bqm",
+      "website": "https://noraj.github.io/bqm/",
+      "description": "Bloodhound Query Merger; deduplicate custom BloudHound queries from different datasets and merge them in one customqueries.json file",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "cypher, neo4j"
+    },
+    {
+      "name": "breach.vip",
+      "website": "https://breach.vip/",
+      "description": "Data breach search engine to check if an email, username, or password has been compromised in known data breaches",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "BreachDirectory",
+      "website": "https://breachdirectory.org/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches, partial password and hash",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "Cameradar",
+      "website": "https://github.com/Ullaakut/cameradar",
+      "description": "RTSP stream access; detect open hosts, device model, automated dictionary attacks on stream route and credentials",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "docker"
+    },
+    {
+      "name": "ccs",
+      "source": "https://github.com/nccgroup/ccs",
+      "description": "Code Credential Scanner; scan a large, diverse codebase for hard-coded credentials, or credentials present in configuration files",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "changedetection.io",
+      "source": "https://github.com/dgtlmoon/changedetection.io",
+      "description": "Self-hosted website change detection tracking, monitoring and notification service",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CISO Assistant",
+      "source": "https://github.com/intuitem/ciso-assistant-community",
+      "description": "All-in-one platform for Governance, Risk and Compliance (GRC) management in an operational way, with +70 standards included and multiple capabilities for cybersecurity program management",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "TPRM, audit, control, threat, framework, evidence"
+    },
+    {
+      "name": "ConvertHound",
+      "source": "https://github.com/layer8secure/ConvertHound",
+      "description": "Convert BloodHound output files into nmap XML that can be imported into reporting software like Dradis and Plextrac",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ctf-party",
+      "website": "https://noraj.github.io/ctf-party",
+      "source": "https://github.com/noraj/ctf-party",
+      "description": "Library to enhance and speed up script/exploit writing for CTF players",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "encoding, decoding, hashing",
+      "blackarch": "ruby-ctf-party"
+    },
+    {
+      "name": "CyberChef",
+      "website": "https://gchq.github.io/CyberChef/",
+      "source": "https://github.com/gchq/CyberChef",
+      "description": "Data manipulation toolkit in web browser",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "cybernews personal data leak check",
+      "website": "https://cybernews.com/personal-data-leak-check/",
+      "description": "Service to check if an account has been compromised in a data breach, only tells if the account is compromised",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "DeHashed",
+      "website": "https://dehashed.com/",
+      "description": "Service to check if an account has been compromised in a data breach",
+      "price": "Paid",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "discover",
+      "source": "https://github.com/leebaird/discover",
+      "description": "Scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DoubleTap",
+      "source": "https://github.com/audibleblink/DoubleTap",
+      "description": "Headless browser in order to load pages and execute JavaScript that often generates things like dynamic nonces that validate the page was actually rendered by a human for password spraying",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "doxycannon",
+      "source": "https://github.com/audibleblink/doxycannon",
+      "description": "Proxycannon and botnet, using docker, ovpn files, tor nodes, and dante socks5 proxies that may be used for password spraying",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Exegol",
+      "website": "https://exegol.readthedocs.io/",
+      "source": "https://github.com/ThePorgs/Exegol",
+      "description": "Disposable hacking environments using docker",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Firefox Monitor",
+      "website": "https://monitor.firefox.com/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "F-Secure Identity Theft Checker",
+      "website": "https://www.f-secure.com/en/home/free-tools/identity-theft-checker",
+      "description": "Service to check if an account has been compromised in a data breach, send an email with the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "getsploit",
+      "source": "https://github.com/vulnersCom/getsploit",
+      "description": "CLI utility for searching and downloading exploits from Exploit-DB, Metasploit, Packetstorm and others",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GOAD",
+      "source": "https://github.com/Orange-Cyberdefense/GOAD",
+      "description": "Game Of Active Directory is a test environment lab that includes all the common vulnerabilities of an active directory",
+      "language": "Powershell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "ansible, vagrant, AD, windows"
+    },
+    {
+      "name": "Godehashed",
+      "source": "https://github.com/an00byss/godehashed",
+      "description": "Uses the dehashed.com API to search for compromised assets",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gtfo",
+      "source": "https://github.com/mzfr/gtfo",
+      "description": "CLI for searching gtfobins and lolbas from the terminal",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "gtfo"
+    },
+    {
+      "name": "GTFOBLookup",
+      "source": "https://github.com/nccgroup/GTFOBLookup",
+      "description": "CLI for earching gtfobins and lolbas from the terminal; allows more advanced search than gtfo",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "gtfoblookup"
+    },
+    {
+      "name": "HackTools",
+      "source": "https://github.com/LasCC/Hack-Tools",
+      "description": "Web browser extension (Chromium, Firefox, Safari) including common functions for web pentest",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HaveIBeenBreached",
+      "website": "https://haveibeenbreached.com/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not the password",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Have I been pwned?",
+      "website": "https://haveibeenpwned.com/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, leak, HIBP"
+    },
+    {
+      "name": "HiddenWall",
+      "source": "https://github.com/CoolerVoid/HiddenWall",
+      "description": "Linux kernel module generator for custom rules with netfilter",
+      "language": "C",
+      "price": "Free",
+      "online":"False",
+      "keywords":"firewall"
+    },
+    {
+      "name": "hideNsneak",
+      "source": "https://github.com/rmikehodges/hideNsneak",
+      "description": "CLI tool for ephemeral penetration testing, rapidly deploy and manage various cloud services",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HoundSploit",
+      "source": "https://github.com/nicolas-carolo/houndsploit",
+      "description": "Graphical search engine for Exploit-DB",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Identity Leak Checker",
+      "website": "https://sec.hpi.de/ilc/",
+      "description": "Service to check if an account has been compromised in a data breach, send the breaches by email",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "inlite",
+      "website": "https://online-barcode-reader.inliteresearch.com/",
+      "description": "Scan QR-code, 1D, DataMatrix, Postal, PDF417, and more",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Interlace",
+      "source": "https://github.com/codingo/Interlace",
+      "description": "Turn single threaded command line applications into a multi-threaded application with CIDR and glob support",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "interlace"
+    },
+    {
+      "name": "itdis",
+      "website": "https://noraj.gitlab.io/itdis/",
+      "source": "https://gitlab.com/noraj/itdis",
+      "description": "Is This Domain In Scope; a small tool that allows you to check if a list of domains you have been provided is in the scope of your pentest or not",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Leak Lookup",
+      "website": "https://leak-lookup.com/",
+      "description": "Service to check if an account has been compromised in a data breach, requires an account",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "LOAD",
+      "source": "https://github.com/0xBallpoint/LOAD",
+      "description": "Lord Of Active Directory is a test environment lab that includes all the common vulnerabilities of an active directory and deploys automatically on AWS; based on AWS-Redteam-Lab and GOAD",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "AD, windows"
+    },
+    {
+      "name": "Lookyloo",
+      "website": "https://www.lookyloo.eu",
+      "source": "https://github.com/Lookyloo/lookyloo",
+      "description": "A web interface that allows you to capture a website page and display a tree of domains",
+      "language": "Python",
+      "price": "Free",
+      "online": "True",
+      "keywords": "REST API"
+    },
+    {
+      "name": "mec",
+      "source": "https://github.com/jm33-m0/mec",
+      "description": "MassExploitConsole; mass reconnaissance and exploitation framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Metasploit",
+      "website": "https://www.metasploit.com/",
+      "source": "https://github.com/rapid7/metasploit-framework",
+      "description": "Tool and framework for pentesting system, web and many more, contains a lot a ready to use exploit, 4 versions: Pro (paid), Express (paid), Community (free with GUI but on request), Framework (free, open source, CLI)",
+      "language": "Ruby",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "mofos",
+      "source": "https://github.com/synacktiv/mofos",
+      "description": "Cross Linux distributions virtual machines manipulation framework inspired by Qubes OS based on Libvirt/QEMU/KVM",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Nord Stream",
+      "website": "https://github.com/synacktiv/nord-stream",
+      "description": "Extract secrets stored inside CI/CD environments by deploying malicious pipelines",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Azure DevOps, GitHub Actions, GitLab CI"
+    },
+    {
+      "name": "objection",
+      "source": "https://github.com/sensepost/objection",
+      "description": "Runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OpenVAS",
+      "website": "http://www.openvas.org/",
+      "source": "https://github.com/greenbone/openvas",
+      "description": "Open Vulnerability Assessment Scanner",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pass Station",
+      "website": "https://sec-it.github.io/pass-station/",
+      "source": "https://github.com/sec-it/pass-station",
+      "description": "CLI & library to search for default credentials among thousands of Products / Vendors",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Passbolt",
+      "website": "https://www.passbolt.com/",
+      "source": "https://github.com/passbolt/passbolt_api",
+      "description": "Password manager for teams; provides a single platform to manage credentials",
+      "language": "PHP",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "PassTester",
+      "source": "https://github.com/Elymaro/PassTester",
+      "description": "Identify the accounts most vulnerable to dictionary attacks by extracting the NTDS database from Active Directory",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PentestBox",
+      "website": "https://pentestbox.org/",
+      "source": "https://github.com/pentestbox",
+      "description": "Pre-configured portable penetration testing environment for Windows, all-in-one box",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PhoneSploit Pro",
+      "website": "https://azeemidrisi.github.io/PhoneSploit-Pro/",
+      "source": "hhttps://github.com/AzeemIdrisi/PhoneSploit-Pro",
+      "description": "Remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name":"Pipal",
+      "website":"https://digi.ninja/projects/pipal.php",
+      "source":"https://github.com/digininja/pipal",
+      "description":"Analyze password dump and return statistics about passwords' strength",
+      "language": "Ruby",
+      "price":"Free",
+      "online":"False",
+      "blackarch": "pipal"
+    },
+    {
+      "name": "Rakound",
+      "source": "https://github.com/Digitemis/Rakound",
+      "description": "Interacts with BloodHound database (neo4j) to retrieve data, add NTLM hashes and cracked passwords",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Rakound-NG",
+      "source": "https://github.com/Tamhackti/Rakound-NG",
+      "description": "Interacts with BloodHound database (neo4j) to retrieve data, add NTLM hashes and cracked passwords",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "rawsec_cli",
+      "website": "https://rawsec-cli.readthedocs.io/en/latest/",
+      "source": "https://github.com/tyki6/rawsec_cli",
+      "description": "Rawsec Inventory search CLI to find security tools and resources",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "rawsec-cli"
+    },
+    {
+      "name": "Reverse Shell Generator",
+      "website": "https://www.revshells.com/",
+      "source": "https://github.com/0dayCTF/reverse-shell-generator",
+      "description": "Web-based reverse shell generator, includes features such as listener generation, raw mode, bind shell generation, msfvenom generation, payload encoding, many different languages, tools and shells supported",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Ronin",
+      "website": "https://ronin-rb.dev/",
+      "source": "https://github.com/ronin-rb/ronin",
+      "description": "Toolkit for security research and development allowing for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ronin-exploits",
+      "source": "https://github.com/ronin-rb/ronin-exploits",
+      "description": "A micro-framework for writing and running exploits",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ronin-payloads",
+      "source": "https://github.com/ronin-rb/ronin-payloads",
+      "description": "A micro-framework for writing and running exploit payloads",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ScatteredSecrets",
+      "website": "https://scatteredsecrets.com/",
+      "description": "Service to check if an account has been compromised in a data breach",
+      "price": "Paid",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "search.0t.rocks self-hosted",
+      "source": "https://github.com/miyakoyakota/search.0t.rocks",
+      "description": "Service to check if an account has been compromised in a data breach; including the data in clear",
+      "language": "TypeScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Scrounger",
+      "source": "https://github.com/nettitude/scrounger",
+      "description": "Mobile application testing toolkit, the mobile metasploit-like framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SearchSploit",
+      "website": "https://www.exploit-db.com/",
+      "source": "https://github.com/offensive-security/exploitdb",
+      "description": "CLI tool to search among Exploit-DB exploits",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Seccubus",
+      "website": "https://www.seccubus.com/",
+      "source": "https://github.com/seccubus/seccubus",
+      "description": "Vulnerability scanning, reporting and analysis",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SiCat",
+      "source": "https://github.com/justakazh/sicat",
+      "description": "CLI tool to search exploits among Exploit-DB, Packetstorm Security, NVD Database, Metasploit Modules",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "sploitctl",
+      "source": "https://github.com/BlackArch/sploitctl",
+      "description": "Fetch, install and search exploit archives from exploit sites like Packet Storm or Exploit-DB",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SprayingToolkit",
+      "source": "https://github.com/byt3bl33d3r/SprayingToolkit",
+      "description": "Password spraying scripts for Lync/S4B and OWA",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Tool-X",
+      "source": "https://github.com/Rajkumrdusad/Tool-X",
+      "description": "Kali linux hacking tool installer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "unisec",
+      "website": "https://noraj.github.io/unisec",
+      "source": "https://github.com/noraj/unisec",
+      "description": "Toolkit for security research manipulating Unicode: confusables, homoglyphs, hexdump, code point, UTF-8, UTF-16, UTF-32, properties, regexp search, size, grapheme, surrogates, version, ICU, CLDR, UCD",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Unredacter",
+      "website": "https://github.com/BishopFox/unredacter",
+      "description": "Bruteforce to reverse the text of image redacted with pixelation blur",
+      "language": "TypeScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Username Anarchy",
+      "source": "https://github.com/urbanadventurer/username-anarchy",
+      "description": "Username generation for penetration testing; supports plugins, format string, substitutions, common names by country, facebook common names",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "username-anarchy"
+    },
+    {
+      "name": "v0lt",
+      "source": "https://github.com/P1kachu/v0lt",
+      "description": "CTF toolkit / framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "VBSmin",
+      "website": "https://noraj.github.io/vbsmin/",
+      "source": "https://github.com/noraj/vbsmin",
+      "description": "VBScript minifier",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "VBS"
+    },
+    {
+      "name": "VulnCheck XDB",
+      "website": "https://vulncheck.com/xdb/",
+      "description": "Exploit database of proof-of-concept code in Git repositories, compiled with validation steps that involve human analysis and automated block lists",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "webqr",
+      "website": "https://webqr.com/index.html",
+      "description": "Scan & create QR-code",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "ysoserial",
+      "source": "https://github.com/frohoff/ysoserial",
+      "description": "Tool for generating payloads that exploit unsafe Java object deserialization",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

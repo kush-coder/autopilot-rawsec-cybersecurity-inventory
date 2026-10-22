@@ -1,0 +1,418 @@
+{
+  "tools": [
+    {
+      "name": "APTRS",
+      "source": "https://github.com/Anof-cyber/APTRS",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Archery",
+      "website": "https://archerysec.com/",
+      "source": "https://github.com/archerysec/archerysec",
+      "description": "Vulnerability Assessment and Management tool, run scan and manage vulnerabilities",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "AttackForge.com",
+      "website": "https://attackforge.com/",
+      "description": "Penetration test collaboration platform: vulnerability database and reporting",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "Bulwark",
+      "source": "https://github.com/softrams/bulwark",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Cervantes",
+      "website": "https://www.cervantessec.org/",
+      "source": "https://github.com/CervantesSec/cervantes",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "CTFNote",
+      "source": "https://github.com/TFNS/CTFNote",
+      "description": "Collaborative platform for CTF teams, event planning, credentials sharing, tasks management, notes taking",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DART",
+      "source": "https://github.com/lmco/dart",
+      "description": "Documentation And Reporting Tool; Collaborative penetration test and vulnerability database platform",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DefectDojo",
+      "website": "https://www.defectdojo.org/",
+      "source": "https://github.com/DefectDojo/django-DefectDojo",
+      "description": "Vulnerability management application built for DevOps and continuous security integration",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Dradis CE",
+      "website": "http://drad.is/",
+      "source": "https://github.com/dradis/dradis-ce",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform; Community edition",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Dradis Pro",
+      "website": "https://dradisframework.com/",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform; Pro edition",
+      "language": "Ruby",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Echidna",
+      "source": "https://github.com/Echidna-Pentest/Echidna",
+      "description": "Collaborative penetration test platform; terminal sharing, target information extraction, command suggestion, exploit searching, chatting, graph visualization",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "envizon",
+      "website": "https://evait-security.github.io/envizon/",
+      "source": "https://github.com/evait-security/envizon",
+      "description": "Vulnerability management and reporting platform",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Fabric",
+      "website": "https://blackstork.io/fabric",
+      "source": "https://github.com/blackstork-io/fabric",
+      "description": "CLI for cybersecurity reporting workflow automation and a configuration language for reusable templates",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "Reporting-as-Code"
+    },
+    {
+      "name": "Faction",
+      "source": "https://github.com/factionsecurity/faction",
+      "description": "Penetration test report generation and assessment collaboration platform",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Faraday",
+      "website": "https://www.faradaysec.com/",
+      "source": "https://github.com/infobyte/faraday",
+      "description": "Collaborative penetration test and reporting platform",
+      "language": "Python",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Ghostwriter",
+      "website": "https://ghostwriter.wiki/",
+      "source": "https://github.com/GhostManager/Ghostwriter",
+      "description": "Project management and reporting engine",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "hackOx",
+      "source": "https://github.com/deantonious/hackox_old",
+      "description": "Modular web based pentesting interface designed to run on Raspberry Pi",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hackuity",
+      "website": "https://www.hackuity.io/",
+      "description": "Risk Based Vulnerablity Management platform",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Kvasir",
+      "source": "https://github.com/KvasirSecurity/Kvasir",
+      "description": "Pentest data management tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Lair",
+      "source": "https://github.com/lair-framework/lair",
+      "description": "Collaborative penetration test and vulnerability management framework",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "MISP",
+      "website": "http://misp-project.org/",
+      "source": "https://github.com/MISP/",
+      "description": "Malware Information Sharing Platform, an Open Source threat intelligence platform and open standards for threat information sharing",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "NightWriter",
+      "source": "https://github.com/Titanexx/NightWriter",
+      "description": "Modern real-time collaborative editing tool secured by end-to-end encryption",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OSCP Exam Report Template in Markdown",
+      "website": "https://noraj.github.io/OSCP-Exam-Report-Template-Markdown",
+      "source": "https://github.com/noraj/OSCP-Exam-Report-Template-Markdown",
+      "description": "Markdown templates for OSCP exam report",
+      "language": "Markdown",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OWASP PenText",
+      "website": "https://www.owasp.org/index.php/OWASP_PenText_Project",
+      "source": "https://github.com/radicallyopensecurity/pentext",
+      "description": "Collection of XML templates, XML schemas and XSLT code, to generate IT security documents including test reports, offers and invoices",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PatrOwl",
+      "website": "https://patrowl.io/",
+      "source": "https://github.com/Patrowl/PatrowlManager",
+      "description": "Security operations orchestration and continuous threat management platform",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PeTeReport",
+      "source": "https://github.com/1modm/petereport",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pentest Collaboration Framework",
+      "source": "https://gitlab.com/invuls/pentest-projects/pcf",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PentestPad",
+      "website": "https://www.pentestpad.com/features?tab=automated-pentest-report-generation",
+      "description": "Collaborative penetration test between team members and end-clients, vulnerability database and reporting platform",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "PenTest.WS",
+      "website": "https://pentest.ws/",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "PlexTrac",
+      "website": "https://plextrac.com/",
+      "description": "Collaborative penetration test reporting and vulnerability database platform",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Pollenisator",
+      "source": "https://github.com/AlgoSecure/Pollenisator",
+      "description": "Collaborative penetration test and reporting platform (DB + clients, no WebUI)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Prithvi",
+      "website": "https://www.vegabird.com/prithvi/",
+      "source": "https://github.com/vegabird/prithvi",
+      "description": "Report generation tool for pentester with provided OWASP data",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PTART",
+      "source": "https://github.com/certmichelin/PTART",
+      "description": "PenTests, Audits, and Reporting Tool; Collaborative penetration test, vulnerability database and reporting platform; fork of Sh00t",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PurpleOps",
+      "website": "https://purpleops.app/",
+      "source": "https://github.com/CyberCX-STA/PurpleOps",
+      "description": "Self-hosted purple team management web application",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PwnDoc",
+      "website": "https://pwndoc.github.io/pwndoc/",
+      "source": "https://github.com/pwndoc/pwndoc",
+      "description": "Collaborative penetration test reporting platform",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PwnDoc-ng",
+      "website": "https://pwndoc-ng.github.io/pwndoc-ng/",
+      "source": "https://github.com/pwndoc-ng/pwndoc-ng",
+      "description": "Collaborative penetration test reporting platform; fork and improvement of PwnDoc",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PwnDoc1A",
+      "source": "https://github.com/AmadeusITGroup/pwndoc1A",
+      "description": "Collaborative penetration test reporting platform; AI powered penetration testing reporting application, fork of PwnDoc",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Reconmap",
+      "website": "https://reconmap.com/",
+      "description": "Penetration test planning, automation and reporting",
+      "language": "PHP",
+      "price": "Paid",
+      "online": "False",
+      "keywords": "markdown, 2FA"
+    },
+    {
+      "name": "Reporter",
+      "website": "https://securityreporter.app/",
+      "description": "Collaborative penetration test reporting platform",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "Serpico",
+      "source": "https://github.com/SerpicoProject/Serpico",
+      "description": "SimplE RePort wrIting and CollaboratiOn tool, penetration testing report generation and collaboration tool",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Serpico-NG",
+      "source": "https://github.com/dedins/Serpico-NG",
+      "description": "SimplE RePort wrIting and CollaboratiOn tool NEXT-GENERATION, penetration testing report generation and collaboration tool, fork of Serpico",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sh00t",
+      "source": "https://github.com/pavanw3b/sh00t",
+      "description": "Pentesting platform with dynamic task manager, checklists, bug template & bug report",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Smersh",
+      "source": "https://github.com/CMEPW/Smersh",
+      "description": "Pentest oriented collaborative tool used to track the progress of your company's engagements and generate reports",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SwiftnessX",
+      "source": "https://github.com/ehrishirajsharma/SwiftnessX",
+      "description": "Cross-platform note-taking and target-tracking app for penetration testers",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SysReptor",
+      "website": "https://docs.sysreptor.com/",
+      "source": "https://github.com/syslifters/sysreptor",
+      "description": "Collaborative penetration test, vulnerability database and reporting platform; supports findings in markdown, customized reports in HTML and VueJS, rendering to PDF, MFA, note-taking, data encryption, SSO",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "vcr",
+      "source": "https://github.com/Shellntel/vcr",
+      "description": "Vulnerability Compliance Report; parse Nessus CIS benchmark scan files and generate HTML reports",
+      "language": "PowerShell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "vuldash",
+      "website": "https://www.vuldash.com/",
+      "source": "https://github.com/talsoft/vuldash",
+      "description": "Vulnerability Dashboard; vulnerability database, project management and report generation",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "VULNREPO",
+      "website": "https://vulnrepo.com/",
+      "source": "https://github.com/kac89/vulnrepo",
+      "description": "Vulnerability report generator",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Vulnreport",
+      "source": "https://github.com/salesforce/vulnreport",
+      "description": "Pentesting management and automation platform",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": " WriteHat",
+      "source": "https://github.com/blacklanternsecurity/writehat",
+      "description": "Collaborative penetration test reporting platform",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "tools": [
+    {
+      "name": "Intelligence X",
+      "website": "https://intelx.io/",
+      "description": "Threat intelligence search engine: email addresses, domains, URLs, IPs, CIDRs, Bitcoin addresses, IPFS hashes, etc.; it searches among darknet, document sharing platforms, whois data, public data leaks, etc.",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "IsMalicious",
+      "website": "https://ismalicious.com",
+      "description": "Malicious IP address and domain detection, classification and monitoring",
+      "price": "Paid",
+      "online": "True",
+      "keywords": "phishing, c2, C&C"
+    },
+    {
+      "name": "Hudson Rock Cybercrime Intelligence Tools",
+      "website": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
+      "description": "Cybercrime intelligence toolset to check if a specific digital asset was compromised in global infostealer malware attacks",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Maltego",
+      "website": "https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php",
+      "description": "Interactive data mining tool that renders directed graphs for link analysis. The tool is used in online investigations for finding relationships between pieces of information from various sources located on the Internet (exists in Community Edition)",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "MISP",
+      "website": "https://www.misp-project.org/",
+      "source": "https://github.com/MISP/MISP",
+      "description": "Threat intelligence platform & open standards for threat information sharing (formerly known as Malware Information Sharing Platform)",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Netglub",
+      "website": "https://www.netglub.org/",
+      "source": "http://redmine.lab.diateam.net/attachments/download/1/netglub-1.0.tar.gz",
+      "description": "Maltego alternative",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OpenCTI",
+      "website": "https://filigran.io/solutions/products/opencti-threat-intelligence/",
+      "source": "https://github.com/OpenCTI-Platform/opencti",
+      "description": "Platform designed for managing and analyzing cyber threat intelligence knowledge, centralizing data using the STIX2 standard and offering visualization and integration capabilities",
+      "language" :"TypeScript",
+      "price": "Free",
+      "online": "False",
+      "keywords": "TTP, MISP, TheHive, MITRE ATT&CK"
+    },
+    {
+      "name": "PatrowlHears",
+      "website": "https://patrowlhears.io/",
+      "source": "https://github.com/Patrowl/PatrowlHears",
+      "description": "Provides a unified source of vulnerability, exploit and threat Intelligence feeds; comprehensive and continuously updated vulnerability database scored and enriched with exploit and threat news information",
+      "language": "Python",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "Pulsedive",
+      "website": "https://pulsedive.com/",
+      "description": "CTI platform to search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Redirect Tracker",
+      "website": "https://www.redirecttracker.com/",
+      "description": "Track the HTTP redirect chains; 301 and 302, JavaScript and Meta fresh redirects",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "sikkerapi.com",
+      "website": "https://sikkerapi.com/",
+      "description": "IP reputation & threat intelligence, with behavioral data and published telemetry from honeypots",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "threatfeeds.io",
+      "website": "https://threatfeeds.io/",
+      "description": "Open-source threat intelligence feeds; sharing malware URLs, IP reputation, bad IPs, etc.",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "ThreatIngestor",
+      "website": "https://inquest.readthedocs.io/projects/threatingestor/",
+      "source": "https://github.com/InQuest/ThreatIngestor",
+      "description": "Extract and aggregate threat intelligence (IOCs from threat feeds)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "MISP, twitter"
+    },
+    {
+      "name": "ThreatKB",
+      "source": "https://github.com/InQuest/ThreatKB",
+      "description": "Knowledge base workflow management for YARA rules and C2 artifacts",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "IP, DNS, SSL"
+    },
+    {
+      "name": "Watcher",
+      "website": "https://thalesgroup-cert.github.io/Watcher/",
+      "source": "https://github.com/thalesgroup-cert/Watcher",
+      "description": "Automated platform for discovering new potentially cybersecurity threats targeting your assets (detects typosquatting domain names, monitor malicious domain names, detects data leaks...)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "CERT, certificate transparency, incident response, OSINT, SOC"
+    },
+    {
+      "name": "Yeti",
+      "website": "https://yeti-platform.github.io/",
+      "source": "https://github.com/yeti-platform/yeti",
+      "description": "Organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}
